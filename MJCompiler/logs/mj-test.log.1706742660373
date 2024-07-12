@@ -1,0 +1,61 @@
+INFO  00:10:36,833 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:10:36,911 - #2 program
+INFO  00:10:36,911 - #45 Program
+INFO  00:10:36,911 - #15 class
+INFO  00:10:36,913 - #45 A
+INFO  00:10:36,914 - #3 {
+INFO  00:10:36,914 - #45 int
+INFO  00:10:36,916 - #45 x
+INFO  00:10:36,918 - #40 [
+INFO  00:10:36,919 - #41 ]
+INFO  00:10:36,919 - #8 ,
+INFO  00:10:36,920 - #45 y
+INFO  00:10:36,921 - #40 [
+INFO  00:10:36,921 - #41 ]
+INFO  00:10:36,921 - #5 ;
+INFO  00:10:36,921 - #4 }
+INFO  00:10:36,922 - #16 const
+INFO  00:10:36,923 - #45 int
+INFO  00:10:36,923 - #45 pi
+INFO  00:10:36,923 - #12 =
+INFO  00:10:36,925 - #44 3
+INFO  00:10:36,937 - #8 ,
+INFO  00:10:36,937 - #45 e
+INFO  00:10:36,937 - #12 =
+INFO  00:10:36,937 - #44 2
+INFO  00:10:36,938 - #5 ;
+INFO  00:10:36,939 - #45 int
+INFO  00:10:36,941 - #45 a
+INFO  00:10:36,941 - #8 ,
+INFO  00:10:36,943 - #45 b
+INFO  00:10:36,943 - #5 ;
+INFO  00:10:36,943 - #15 class
+INFO  00:10:36,943 - #45 B
+INFO  00:10:36,943 - #19 extends
+INFO  00:10:36,943 - #45 A
+INFO  00:10:36,943 - #3 {
+INFO  00:10:36,943 - #45 int
+INFO  00:10:36,943 - #45 i
+INFO  00:10:36,943 - #5 ;
+INFO  00:10:36,943 - #26 /
+ERROR 00:10:36,943 - 
+Sintaksna greska na liniji 7
+INFO  00:10:36,943 - #25 *
+INFO  00:10:36,943 - #3 {
+INFO  00:10:36,943 - #45 int
+INFO  00:10:36,944 - #45 getValue
+INFO  00:10:36,944 - #6 (
+INFO  00:10:36,944 - #45 int
+INFO  00:10:36,944 - #45 a
+INFO  00:10:36,944 - #7 )
+INFO  00:10:36,944 - #45 int
+INFO  00:10:36,944 - #45 b
+INFO  00:10:36,944 - #5 ;
+INFO  00:10:36,944 - #45 bool
+INFO  00:10:36,944 - #45 c
+INFO  00:10:36,946 - #5 ;
+ERROR 00:10:36,946 - Uspesan oporavak od greske na liniji 6 pri definisanji globalne promenjive
+INFO  00:10:36,947 - #3 {
+ERROR 00:10:36,947 - 
+Sintaksna greska na liniji 8
+ERROR 00:10:36,948 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 8

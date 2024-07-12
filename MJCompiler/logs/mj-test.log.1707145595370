@@ -1,0 +1,104 @@
+INFO  16:04:51,314 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:04:51,358 - #2 program
+INFO  16:04:51,358 - #45 test301
+INFO  16:04:51,358 - #45 int
+INFO  16:04:51,359 - #45 x
+INFO  16:04:51,361 - #5 ;
+INFO  16:04:51,362 - #45 int
+INFO  16:04:51,363 - #45 y
+INFO  16:04:51,363 - #5 ;
+INFO  16:04:51,363 - #3 {
+INFO  16:04:51,363 - #13 void
+INFO  16:04:51,364 - #45 main
+INFO  16:04:51,365 - #6 (
+INFO  16:04:51,365 - #7 )
+INFO  16:04:51,366 - #3 {
+INFO  16:04:51,367 - #9 print
+INFO  16:04:51,367 - #6 (
+INFO  16:04:51,367 - #44 1
+INFO  16:04:51,368 - #7 )
+INFO  16:04:51,370 - #5 ;
+INFO  16:04:51,370 - #4 }
+INFO  16:04:51,370 - #4 }
+INFO  16:04:51,385 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NoNameSpace(
+  ) [NoNameSpace]
+  DeclarationList(
+    DeclarationList(
+      NoDeclList(
+      ) [NoDeclList]
+      DeclVar(
+        VarDecl(
+          Type(
+           int
+            TypeNamespNameDerived2(
+            ) [TypeNamespNameDerived2]
+          ) [Type]
+          SingleVarDecl(
+            VarName(
+             x
+            ) [VarName]
+            NoVariableArray(
+            ) [NoVariableArray]
+          ) [SingleVarDecl]
+        ) [VarDecl]
+      ) [DeclVar]
+    ) [DeclarationList]
+    DeclVar(
+      VarDecl(
+        Type(
+         int
+          TypeNamespNameDerived2(
+          ) [TypeNamespNameDerived2]
+        ) [Type]
+        SingleVarDecl(
+          VarName(
+           y
+          ) [VarName]
+          NoVariableArray(
+          ) [NoVariableArray]
+        ) [SingleVarDecl]
+      ) [VarDecl]
+    ) [DeclVar]
+  ) [DeclarationList]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDecl(
+      MethodVoid(
+      ) [MethodVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoPars(
+      ) [NoPars]
+      NoVarDeclarationList(
+      ) [NoVarDeclarationList]
+      MethodStmtList(
+        NoMethodStmtList(
+        ) [NoMethodStmtList]
+        MatchedStmt(
+          PrintStmt(
+            ExprNoMinus(
+              Term(
+                FactNum(
+                 1
+                ) [FactNum]
+                NoMoreFact(
+                ) [NoMoreFact]
+              ) [Term]
+              NoMoreTerm(
+              ) [NoMoreTerm]
+            ) [ExprNoMinus]
+            NoPrintParam(
+            ) [NoPrintParam]
+          ) [PrintStmt]
+        ) [MatchedStmt]
+      ) [MethodStmtList]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  16:04:51,390 - Parsiranje uspesno završeno!

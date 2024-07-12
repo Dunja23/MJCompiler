@@ -1,0 +1,60 @@
+INFO  01:14:50,096 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:14:50,161 - #2 program
+INFO  01:14:50,161 - #45 Test1
+INFO  01:14:50,161 - #45 char
+INFO  01:14:50,163 - #45 x
+INFO  01:14:50,165 - #8 ,
+INFO  01:14:50,167 - #45 m
+INFO  01:14:50,167 - #8 ,
+INFO  01:14:50,167 - #45 n
+INFO  01:14:50,167 - #5 ;
+INFO  01:14:50,167 - #45 int
+INFO  01:14:50,169 - #45 y
+INFO  01:14:50,169 - #5 ;
+INFO  01:14:50,169 - #45 bool
+INFO  01:14:50,169 - #45 tr
+INFO  01:14:50,170 - #12 =
+ERROR 01:14:50,170 - 
+Sintaksna greska na liniji 4
+INFO  01:14:50,170 - #43 true
+INFO  01:14:50,170 - #5 ;
+INFO  01:14:50,170 - #16 const
+INFO  01:14:50,175 - #45 int
+INFO  01:14:50,189 - #45 z
+ERROR 01:14:50,189 - Uspesan oporavak od greske na liniji 4 pri definisanju promenjive
+INFO  01:14:50,191 - #12 =
+INFO  01:14:50,192 - #44 1
+INFO  01:14:50,192 - #5 ;
+INFO  01:14:50,193 - #3 {
+INFO  01:14:50,195 - #45 int
+INFO  01:14:50,196 - #45 main
+INFO  01:14:50,196 - #6 (
+INFO  01:14:50,197 - #7 )
+INFO  01:14:50,198 - #45 char
+INFO  01:14:50,198 - #45 k
+INFO  01:14:50,199 - #5 ;
+INFO  01:14:50,199 - #3 {
+INFO  01:14:50,199 - #45 x
+INFO  01:14:50,200 - #12 =
+INFO  01:14:50,200 - #44 2
+INFO  01:14:50,201 - #5 ;
+INFO  01:14:50,203 - #9 print
+INFO  01:14:50,204 - #6 (
+INFO  01:14:50,204 - #45 x
+INFO  01:14:50,204 - #7 )
+INFO  01:14:50,206 - #5 ;
+INFO  01:14:50,206 - #4 }
+INFO  01:14:50,206 - #4 }
+INFO  01:14:50,224 - Test1
+INFO  01:14:50,225 - ====================================
+INFO  01:14:50,228 - Deklarisana promenljiva: x, Tip: char na liniji 3
+INFO  01:14:50,228 - Deklarisana promenljiva: m, Tip: char na liniji 3
+INFO  01:14:50,229 - Deklarisana promenljiva: n, Tip: char na liniji 3
+INFO  01:14:50,229 - Deklarisana promenljiva: y, Tip: int na liniji 3
+ERROR 01:14:50,229 - Nije pronadjen tip bool u tabeli simbola! 
+INFO  01:14:50,229 - Definisana konstanta: z, Tip: int na liniji 6
+INFO  01:14:50,229 - Obradjuje se funkcija main na liniji 9
+INFO  01:14:50,229 - Deklarisana promenljiva: k, Tip: char na liniji 9
+INFO  01:14:50,229 -  Print count calls = 1
+INFO  01:14:50,229 -  Deklarisanih promenljivih ima = 5
+INFO  01:14:50,229 - ====================================

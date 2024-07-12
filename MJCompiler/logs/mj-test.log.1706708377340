@@ -1,0 +1,55 @@
+INFO  14:37:46,105 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:37:46,192 - #2 program
+INFO  14:37:46,193 - #45 Test1
+INFO  14:37:46,193 - #45 char
+INFO  14:37:46,196 - #45 x
+INFO  14:37:46,198 - #8 ,
+INFO  14:37:46,201 - #45 m
+INFO  14:37:46,201 - #8 ,
+INFO  14:37:46,202 - #45 n
+INFO  14:37:46,202 - #5 ;
+INFO  14:37:46,202 - #45 int
+INFO  14:37:46,203 - #45 y
+INFO  14:37:46,204 - #5 ;
+INFO  14:37:46,204 - #45 bool
+INFO  14:37:46,204 - #45 tr
+INFO  14:37:46,204 - #5 ;
+INFO  14:37:46,204 - #16 const
+INFO  14:37:46,204 - #45 int
+INFO  14:37:46,204 - #45 z
+INFO  14:37:46,204 - #12 =
+INFO  14:37:46,206 - #44 1
+INFO  14:37:46,206 - #5 ;
+INFO  14:37:46,221 - #3 {
+INFO  14:37:46,222 - #45 int
+INFO  14:37:46,223 - #45 main
+INFO  14:37:46,223 - #6 (
+INFO  14:37:46,224 - #7 )
+INFO  14:37:46,225 - #45 char
+INFO  14:37:46,226 - #45 k
+INFO  14:37:46,226 - #5 ;
+INFO  14:37:46,226 - #3 {
+INFO  14:37:46,226 - #45 x
+INFO  14:37:46,227 - #12 =
+INFO  14:37:46,228 - #46 s
+INFO  14:37:46,229 - #5 ;
+INFO  14:37:46,232 - #9 print
+INFO  14:37:46,233 - #6 (
+INFO  14:37:46,233 - #45 x
+INFO  14:37:46,233 - #7 )
+INFO  14:37:46,235 - #5 ;
+INFO  14:37:46,235 - #4 }
+INFO  14:37:46,236 - #4 }
+INFO  14:37:46,259 - Test1
+INFO  14:37:46,259 - ====================================
+INFO  14:37:46,259 - Deklarisana promenljiva: x, Tip: char na liniji 3
+INFO  14:37:46,259 - Deklarisana promenljiva: m, Tip: char na liniji 3
+INFO  14:37:46,259 - Deklarisana promenljiva: n, Tip: char na liniji 3
+INFO  14:37:46,259 - Deklarisana promenljiva: y, Tip: int na liniji 3
+INFO  14:37:46,259 - Deklarisana promenljiva: tr, Tip: bool na liniji 4
+INFO  14:37:46,259 - Definisana konstanta: z, Tip: int na liniji 6
+INFO  14:37:46,260 - Obradjuje se funkcija main na liniji 9
+INFO  14:37:46,260 - Deklarisana promenljiva: k, Tip: char na liniji 9
+INFO  14:37:46,260 -  Print count calls = 1
+INFO  14:37:46,260 -  Deklarisanih promenljivih ima = 6
+INFO  14:37:46,260 - ====================================

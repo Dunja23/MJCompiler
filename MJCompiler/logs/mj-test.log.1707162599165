@@ -1,0 +1,194 @@
+INFO  20:49:22,772 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:49:22,833 - #2 program
+INFO  20:49:22,833 - #45 test301
+INFO  20:49:22,834 - #23 namespace
+INFO  20:49:22,835 - #45 Konstante
+INFO  20:49:22,835 - #3 {
+INFO  20:49:22,836 - #3 {
+INFO  20:49:22,838 - #4 }
+INFO  20:49:22,839 - #4 }
+INFO  20:49:22,839 - #45 int
+INFO  20:49:22,840 - #45 a
+INFO  20:49:22,842 - #5 ;
+INFO  20:49:22,844 - #3 {
+INFO  20:49:22,844 - #13 void
+INFO  20:49:22,844 - #45 main
+INFO  20:49:22,847 - #6 (
+INFO  20:49:22,849 - #7 )
+INFO  20:49:22,850 - #45 int
+INFO  20:49:22,851 - #45 z
+INFO  20:49:22,852 - #5 ;
+INFO  20:49:22,852 - #3 {
+INFO  20:49:22,853 - #45 z
+INFO  20:49:22,853 - #12 =
+INFO  20:49:22,856 - #44 3
+INFO  20:49:22,857 - #5 ;
+INFO  20:49:22,860 - #9 print
+INFO  20:49:22,861 - #6 (
+INFO  20:49:22,861 - #44 15
+INFO  20:49:22,861 - #7 )
+INFO  20:49:22,862 - #5 ;
+INFO  20:49:22,862 - #9 print
+INFO  20:49:22,862 - #6 (
+INFO  20:49:22,863 - #45 eol
+INFO  20:49:22,863 - #7 )
+INFO  20:49:22,863 - #5 ;
+INFO  20:49:22,863 - #45 eol
+INFO  20:49:22,863 - #5 ;
+ERROR 20:49:22,863 - 
+Sintaksna greska na liniji 22
+INFO  20:49:22,864 - #4 }
+INFO  20:49:22,864 - #4 }
+ERROR 20:49:22,865 - Uspesan oporavak od greske na liniji 1 pri konstrukciji iskaza dodele
+INFO  20:49:22,881 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NamespaceLists(
+    NoNameSpace(
+    ) [NoNameSpace]
+    Namespace(
+      NamespName(
+       Konstante
+      ) [NamespName]
+      NoDeclList(
+      ) [NoDeclList]
+      NoMethodDeclarations(
+      ) [NoMethodDeclarations]
+    ) [Namespace]
+  ) [NamespaceLists]
+  DeclarationList(
+    NoDeclList(
+    ) [NoDeclList]
+    DeclVar(
+      VarDecl(
+        Type(
+         int
+          TypeNamespNameDerived2(
+          ) [TypeNamespNameDerived2]
+        ) [Type]
+        SingleVarDecl(
+          VarName(
+           a
+          ) [VarName]
+          NoVariableArray(
+          ) [NoVariableArray]
+        ) [SingleVarDecl]
+      ) [VarDecl]
+    ) [DeclVar]
+  ) [DeclarationList]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDecl(
+      MethodVoid(
+      ) [MethodVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoPars(
+      ) [NoPars]
+      VarDeclarationList(
+        NoVarDeclarationList(
+        ) [NoVarDeclarationList]
+        VarDecl(
+          Type(
+           int
+            TypeNamespNameDerived2(
+            ) [TypeNamespNameDerived2]
+          ) [Type]
+          SingleVarDecl(
+            VarName(
+             z
+            ) [VarName]
+            NoVariableArray(
+            ) [NoVariableArray]
+          ) [SingleVarDecl]
+        ) [VarDecl]
+      ) [VarDeclarationList]
+      MethodStmtList(
+        MethodStmtList(
+          MethodStmtList(
+            MethodStmtList(
+              NoMethodStmtList(
+              ) [NoMethodStmtList]
+              MatchedStmt(
+                DesignatorStmt(
+                  DesignatorAssign(
+                    DesignatorNoNameSpace(
+                      DesignatorName(
+                       z
+                      ) [DesignatorName]
+                      NoDesignatorRest(
+                      ) [NoDesignatorRest]
+                    ) [DesignatorNoNameSpace]
+                    Assignop(
+                    ) [Assignop]
+                    ExprNoMinus(
+                      Term(
+                        FactNum(
+                         3
+                        ) [FactNum]
+                        NoMoreFact(
+                        ) [NoMoreFact]
+                      ) [Term]
+                      NoMoreTerm(
+                      ) [NoMoreTerm]
+                    ) [ExprNoMinus]
+                  ) [DesignatorAssign]
+                ) [DesignatorStmt]
+              ) [MatchedStmt]
+            ) [MethodStmtList]
+            MatchedStmt(
+              PrintStmt(
+                ExprNoMinus(
+                  Term(
+                    FactNum(
+                     15
+                    ) [FactNum]
+                    NoMoreFact(
+                    ) [NoMoreFact]
+                  ) [Term]
+                  NoMoreTerm(
+                  ) [NoMoreTerm]
+                ) [ExprNoMinus]
+                NoPrintParam(
+                ) [NoPrintParam]
+              ) [PrintStmt]
+            ) [MatchedStmt]
+          ) [MethodStmtList]
+          MatchedStmt(
+            PrintStmt(
+              ExprNoMinus(
+                Term(
+                  FactDesign(
+                    DesignatorNoNameSpace(
+                      DesignatorName(
+                       eol
+                      ) [DesignatorName]
+                      NoDesignatorRest(
+                      ) [NoDesignatorRest]
+                    ) [DesignatorNoNameSpace]
+                  ) [FactDesign]
+                  NoMoreFact(
+                  ) [NoMoreFact]
+                ) [Term]
+                NoMoreTerm(
+                ) [NoMoreTerm]
+              ) [ExprNoMinus]
+              NoPrintParam(
+              ) [NoPrintParam]
+            ) [PrintStmt]
+          ) [MatchedStmt]
+        ) [MethodStmtList]
+        MatchedStmt(
+          DesignatorStmt(
+            DesignatorStatementDerived1(
+            ) [DesignatorStatementDerived1]
+          ) [DesignatorStmt]
+        ) [MatchedStmt]
+      ) [MethodStmtList]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+ERROR 20:49:22,884 - Parsiranje NIJE uspesno zavrseno!

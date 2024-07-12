@@ -1,0 +1,1748 @@
+INFO  00:09:26,491 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:09:26,574 - #2 program
+INFO  00:09:26,574 - #45 test301
+INFO  00:09:26,574 - #23 namespace
+INFO  00:09:26,576 - #45 Konstante
+INFO  00:09:26,576 - #3 {
+INFO  00:09:26,577 - #16 const
+INFO  00:09:26,578 - #45 int
+INFO  00:09:26,578 - #45 nula
+INFO  00:09:26,580 - #12 =
+INFO  00:09:26,581 - #44 0
+INFO  00:09:26,581 - #5 ;
+INFO  00:09:26,582 - #16 const
+INFO  00:09:26,583 - #45 int
+INFO  00:09:26,585 - #45 jedan
+INFO  00:09:26,585 - #12 =
+INFO  00:09:26,585 - #44 1
+INFO  00:09:26,585 - #5 ;
+INFO  00:09:26,585 - #16 const
+INFO  00:09:26,585 - #45 int
+INFO  00:09:26,586 - #45 pet
+INFO  00:09:26,586 - #12 =
+INFO  00:09:26,586 - #44 5
+INFO  00:09:26,586 - #5 ;
+INFO  00:09:26,586 - #3 {
+INFO  00:09:26,587 - #4 }
+INFO  00:09:26,587 - #4 }
+INFO  00:09:26,588 - #23 namespace
+INFO  00:09:26,589 - #45 Nizovi
+INFO  00:09:26,589 - #3 {
+INFO  00:09:26,589 - #45 int
+INFO  00:09:26,589 - #45 niz
+INFO  00:09:26,589 - #40 [
+INFO  00:09:26,590 - #41 ]
+INFO  00:09:26,590 - #5 ;
+INFO  00:09:26,591 - #45 char
+INFO  00:09:26,592 - #45 nizch
+INFO  00:09:26,592 - #40 [
+INFO  00:09:26,592 - #41 ]
+INFO  00:09:26,592 - #5 ;
+INFO  00:09:26,592 - #3 {
+INFO  00:09:26,593 - #4 }
+INFO  00:09:26,593 - #4 }
+INFO  00:09:26,593 - #45 int
+INFO  00:09:26,593 - #45 a
+INFO  00:09:26,593 - #5 ;
+INFO  00:09:26,594 - #3 {
+INFO  00:09:26,594 - #13 void
+INFO  00:09:26,594 - #45 main
+INFO  00:09:26,595 - #6 (
+INFO  00:09:26,596 - #7 )
+INFO  00:09:26,596 - #45 int
+INFO  00:09:26,597 - #45 bodovi
+INFO  00:09:26,598 - #5 ;
+INFO  00:09:26,598 - #45 bool
+INFO  00:09:26,598 - #45 bt
+INFO  00:09:26,598 - #5 ;
+INFO  00:09:26,598 - #3 {
+INFO  00:09:26,598 - #45 bodovi
+INFO  00:09:26,599 - #12 =
+INFO  00:09:26,601 - #44 0
+INFO  00:09:26,602 - #5 ;
+INFO  00:09:26,605 - #45 bodovi
+INFO  00:09:26,605 - #36 ++
+INFO  00:09:26,606 - #5 ;
+INFO  00:09:26,606 - #45 bodovi
+INFO  00:09:26,606 - #12 =
+INFO  00:09:26,606 - #45 bodovi
+INFO  00:09:26,606 - #11 +
+INFO  00:09:26,607 - #45 Konstante
+INFO  00:09:26,609 - #38 :
+INFO  00:09:26,609 - #38 :
+INFO  00:09:26,609 - #45 jedan
+INFO  00:09:26,609 - #5 ;
+INFO  00:09:26,609 - #45 bodovi
+INFO  00:09:26,609 - #12 =
+INFO  00:09:26,609 - #45 bodovi
+INFO  00:09:26,610 - #25 *
+INFO  00:09:26,610 - #45 Konstante
+INFO  00:09:26,611 - #38 :
+INFO  00:09:26,611 - #38 :
+INFO  00:09:26,611 - #45 pet
+INFO  00:09:26,611 - #5 ;
+INFO  00:09:26,611 - #45 bodovi
+INFO  00:09:26,612 - #37 --
+INFO  00:09:26,612 - #5 ;
+INFO  00:09:26,612 - #9 print
+INFO  00:09:26,612 - #6 (
+INFO  00:09:26,612 - #45 bodovi
+INFO  00:09:26,612 - #7 )
+INFO  00:09:26,613 - #5 ;
+INFO  00:09:26,613 - #45 Nizovi
+INFO  00:09:26,613 - #38 :
+INFO  00:09:26,613 - #38 :
+INFO  00:09:26,613 - #45 niz
+INFO  00:09:26,614 - #12 =
+INFO  00:09:26,614 - #17 new
+INFO  00:09:26,614 - #45 int
+INFO  00:09:26,614 - #40 [
+INFO  00:09:26,614 - #44 3
+INFO  00:09:26,614 - #41 ]
+INFO  00:09:26,614 - #5 ;
+INFO  00:09:26,614 - #45 Nizovi
+INFO  00:09:26,615 - #38 :
+INFO  00:09:26,615 - #38 :
+INFO  00:09:26,615 - #45 niz
+INFO  00:09:26,615 - #40 [
+INFO  00:09:26,615 - #45 Konstante
+INFO  00:09:26,615 - #38 :
+INFO  00:09:26,615 - #38 :
+INFO  00:09:26,615 - #45 nula
+INFO  00:09:26,615 - #41 ]
+INFO  00:09:26,615 - #12 =
+INFO  00:09:26,616 - #45 Konstante
+INFO  00:09:26,616 - #38 :
+INFO  00:09:26,616 - #38 :
+INFO  00:09:26,616 - #45 jedan
+INFO  00:09:26,616 - #5 ;
+INFO  00:09:26,616 - #45 Nizovi
+INFO  00:09:26,616 - #38 :
+INFO  00:09:26,616 - #38 :
+INFO  00:09:26,616 - #45 niz
+INFO  00:09:26,616 - #40 [
+INFO  00:09:26,616 - #44 1
+INFO  00:09:26,616 - #41 ]
+INFO  00:09:26,616 - #12 =
+INFO  00:09:26,616 - #44 2
+INFO  00:09:26,617 - #5 ;
+INFO  00:09:26,617 - #45 Nizovi
+INFO  00:09:26,617 - #38 :
+INFO  00:09:26,617 - #38 :
+INFO  00:09:26,617 - #45 niz
+INFO  00:09:26,617 - #40 [
+INFO  00:09:26,617 - #45 Nizovi
+INFO  00:09:26,617 - #38 :
+INFO  00:09:26,617 - #38 :
+INFO  00:09:26,617 - #45 niz
+INFO  00:09:26,617 - #40 [
+INFO  00:09:26,617 - #45 Konstante
+INFO  00:09:26,617 - #38 :
+INFO  00:09:26,617 - #38 :
+INFO  00:09:26,617 - #45 jedan
+INFO  00:09:26,618 - #41 ]
+INFO  00:09:26,618 - #41 ]
+INFO  00:09:26,618 - #12 =
+INFO  00:09:26,618 - #45 Nizovi
+INFO  00:09:26,618 - #38 :
+INFO  00:09:26,618 - #38 :
+INFO  00:09:26,618 - #45 niz
+INFO  00:09:26,618 - #40 [
+INFO  00:09:26,618 - #45 Nizovi
+INFO  00:09:26,618 - #38 :
+INFO  00:09:26,618 - #38 :
+INFO  00:09:26,618 - #45 niz
+INFO  00:09:26,618 - #40 [
+INFO  00:09:26,618 - #44 0
+INFO  00:09:26,618 - #41 ]
+INFO  00:09:26,618 - #41 ]
+INFO  00:09:26,619 - #25 *
+INFO  00:09:26,619 - #44 3
+INFO  00:09:26,619 - #5 ;
+INFO  00:09:26,619 - #45 bodovi
+INFO  00:09:26,619 - #12 =
+INFO  00:09:26,619 - #45 Nizovi
+INFO  00:09:26,619 - #38 :
+INFO  00:09:26,619 - #38 :
+INFO  00:09:26,619 - #45 niz
+INFO  00:09:26,619 - #40 [
+INFO  00:09:26,619 - #44 2
+INFO  00:09:26,619 - #41 ]
+INFO  00:09:26,619 - #26 /
+INFO  00:09:26,619 - #45 Nizovi
+INFO  00:09:26,620 - #38 :
+INFO  00:09:26,620 - #38 :
+INFO  00:09:26,620 - #45 niz
+INFO  00:09:26,620 - #40 [
+INFO  00:09:26,620 - #44 0
+INFO  00:09:26,620 - #41 ]
+INFO  00:09:26,621 - #5 ;
+INFO  00:09:26,621 - #9 print
+INFO  00:09:26,621 - #6 (
+INFO  00:09:26,621 - #45 bodovi
+INFO  00:09:26,621 - #7 )
+INFO  00:09:26,621 - #5 ;
+INFO  00:09:26,621 - #9 print
+INFO  00:09:26,621 - #6 (
+INFO  00:09:26,621 - #45 Nizovi
+INFO  00:09:26,621 - #38 :
+INFO  00:09:26,621 - #38 :
+INFO  00:09:26,621 - #45 niz
+INFO  00:09:26,621 - #40 [
+INFO  00:09:26,621 - #44 2
+INFO  00:09:26,621 - #41 ]
+INFO  00:09:26,621 - #7 )
+INFO  00:09:26,621 - #5 ;
+INFO  00:09:26,621 - #45 Nizovi
+INFO  00:09:26,622 - #38 :
+INFO  00:09:26,626 - #38 :
+INFO  00:09:26,626 - #45 nizch
+INFO  00:09:26,626 - #12 =
+INFO  00:09:26,626 - #17 new
+INFO  00:09:26,626 - #45 char
+INFO  00:09:26,626 - #40 [
+INFO  00:09:26,626 - #44 3
+INFO  00:09:26,626 - #41 ]
+INFO  00:09:26,626 - #5 ;
+INFO  00:09:26,626 - #45 Nizovi
+INFO  00:09:26,626 - #38 :
+INFO  00:09:26,626 - #38 :
+INFO  00:09:26,626 - #45 nizch
+INFO  00:09:26,626 - #40 [
+INFO  00:09:26,626 - #44 0
+INFO  00:09:26,626 - #41 ]
+INFO  00:09:26,626 - #12 =
+INFO  00:09:26,627 - #46 a
+INFO  00:09:26,627 - #5 ;
+INFO  00:09:26,627 - #45 Nizovi
+INFO  00:09:26,627 - #38 :
+INFO  00:09:26,627 - #38 :
+INFO  00:09:26,627 - #45 nizch
+INFO  00:09:26,627 - #40 [
+INFO  00:09:26,627 - #45 Konstante
+INFO  00:09:26,627 - #38 :
+INFO  00:09:26,627 - #38 :
+INFO  00:09:26,627 - #45 jedan
+INFO  00:09:26,630 - #41 ]
+INFO  00:09:26,630 - #12 =
+INFO  00:09:26,630 - #46 b
+INFO  00:09:26,630 - #5 ;
+INFO  00:09:26,630 - #45 Nizovi
+INFO  00:09:26,631 - #38 :
+INFO  00:09:26,631 - #38 :
+INFO  00:09:26,631 - #45 nizch
+INFO  00:09:26,631 - #40 [
+INFO  00:09:26,631 - #45 Konstante
+INFO  00:09:26,631 - #38 :
+INFO  00:09:26,631 - #38 :
+INFO  00:09:26,631 - #45 pet
+INFO  00:09:26,631 - #24 -
+INFO  00:09:26,631 - #44 3
+INFO  00:09:26,632 - #41 ]
+INFO  00:09:26,633 - #12 =
+INFO  00:09:26,633 - #46 c
+INFO  00:09:26,633 - #5 ;
+INFO  00:09:26,633 - #9 print
+INFO  00:09:26,633 - #6 (
+INFO  00:09:26,633 - #45 Nizovi
+INFO  00:09:26,633 - #38 :
+INFO  00:09:26,633 - #38 :
+INFO  00:09:26,633 - #45 nizch
+INFO  00:09:26,633 - #40 [
+INFO  00:09:26,633 - #44 1
+INFO  00:09:26,633 - #41 ]
+INFO  00:09:26,633 - #7 )
+INFO  00:09:26,633 - #5 ;
+INFO  00:09:26,633 - #9 print
+INFO  00:09:26,633 - #6 (
+INFO  00:09:26,633 - #45 Nizovi
+INFO  00:09:26,633 - #38 :
+INFO  00:09:26,633 - #38 :
+INFO  00:09:26,633 - #45 nizch
+INFO  00:09:26,634 - #40 [
+INFO  00:09:26,634 - #45 Konstante
+INFO  00:09:26,634 - #38 :
+INFO  00:09:26,634 - #38 :
+INFO  00:09:26,634 - #45 jedan
+INFO  00:09:26,634 - #25 *
+INFO  00:09:26,634 - #44 2
+INFO  00:09:26,634 - #41 ]
+INFO  00:09:26,634 - #7 )
+INFO  00:09:26,634 - #5 ;
+INFO  00:09:26,634 - #45 a
+INFO  00:09:26,634 - #12 =
+INFO  00:09:26,634 - #44 1
+INFO  00:09:26,634 - #5 ;
+INFO  00:09:26,634 - #18 read
+INFO  00:09:26,634 - #6 (
+INFO  00:09:26,634 - #45 bodovi
+INFO  00:09:26,634 - #7 )
+INFO  00:09:26,635 - #5 ;
+INFO  00:09:26,635 - #45 bodovi
+INFO  00:09:26,635 - #12 =
+INFO  00:09:26,635 - #24 -
+INFO  00:09:26,635 - #45 bodovi
+INFO  00:09:26,635 - #11 +
+INFO  00:09:26,635 - #6 (
+INFO  00:09:26,635 - #45 Konstante
+INFO  00:09:26,635 - #38 :
+INFO  00:09:26,635 - #38 :
+INFO  00:09:26,635 - #45 pet
+INFO  00:09:26,635 - #25 *
+INFO  00:09:26,635 - #45 a
+INFO  00:09:26,635 - #26 /
+INFO  00:09:26,635 - #44 2
+INFO  00:09:26,635 - #24 -
+INFO  00:09:26,635 - #45 Konstante
+INFO  00:09:26,635 - #38 :
+INFO  00:09:26,636 - #38 :
+INFO  00:09:26,636 - #45 jedan
+INFO  00:09:26,636 - #7 )
+INFO  00:09:26,636 - #25 *
+INFO  00:09:26,636 - #45 bodovi
+INFO  00:09:26,636 - #24 -
+INFO  00:09:26,636 - #6 (
+INFO  00:09:26,636 - #44 3
+INFO  00:09:26,636 - #27 %
+INFO  00:09:26,636 - #44 2
+INFO  00:09:26,637 - #11 +
+INFO  00:09:26,637 - #44 3
+INFO  00:09:26,637 - #25 *
+INFO  00:09:26,637 - #44 2
+INFO  00:09:26,637 - #24 -
+INFO  00:09:26,637 - #44 3
+INFO  00:09:26,637 - #7 )
+INFO  00:09:26,638 - #5 ;
+INFO  00:09:26,638 - #9 print
+INFO  00:09:26,638 - #6 (
+INFO  00:09:26,638 - #45 bodovi
+INFO  00:09:26,638 - #7 )
+INFO  00:09:26,638 - #5 ;
+INFO  00:09:26,638 - #4 }
+INFO  00:09:26,638 - #4 }
+INFO  00:09:26,660 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NamespaceLists(
+    NamespaceLists(
+      NoNameSpace(
+      ) [NoNameSpace]
+      Namespace(
+        NamespName(
+         Konstante
+        ) [NamespName]
+        DeclarationList(
+          DeclarationList(
+            DeclarationList(
+              NoDeclList(
+              ) [NoDeclList]
+              DeclConst(
+                ConstDecl(
+                  Type(
+                   int
+                    TypeNamespNameDerived2(
+                    ) [TypeNamespNameDerived2]
+                  ) [Type]
+                  ConstName(
+                   nula
+                  ) [ConstName]
+                  Num(
+                   0
+                  ) [Num]
+                  SingleConstDecl(
+                  ) [SingleConstDecl]
+                ) [ConstDecl]
+              ) [DeclConst]
+            ) [DeclarationList]
+            DeclConst(
+              ConstDecl(
+                Type(
+                 int
+                  TypeNamespNameDerived2(
+                  ) [TypeNamespNameDerived2]
+                ) [Type]
+                ConstName(
+                 jedan
+                ) [ConstName]
+                Num(
+                 1
+                ) [Num]
+                SingleConstDecl(
+                ) [SingleConstDecl]
+              ) [ConstDecl]
+            ) [DeclConst]
+          ) [DeclarationList]
+          DeclConst(
+            ConstDecl(
+              Type(
+               int
+                TypeNamespNameDerived2(
+                ) [TypeNamespNameDerived2]
+              ) [Type]
+              ConstName(
+               pet
+              ) [ConstName]
+              Num(
+               5
+              ) [Num]
+              SingleConstDecl(
+              ) [SingleConstDecl]
+            ) [ConstDecl]
+          ) [DeclConst]
+        ) [DeclarationList]
+        NoMethodDeclarations(
+        ) [NoMethodDeclarations]
+      ) [Namespace]
+    ) [NamespaceLists]
+    Namespace(
+      NamespName(
+       Nizovi
+      ) [NamespName]
+      DeclarationList(
+        DeclarationList(
+          NoDeclList(
+          ) [NoDeclList]
+          DeclVar(
+            VarDecl(
+              Type(
+               int
+                TypeNamespNameDerived2(
+                ) [TypeNamespNameDerived2]
+              ) [Type]
+              SingleVarDecl(
+                VarName(
+                 niz
+                ) [VarName]
+                VariableArray(
+                ) [VariableArray]
+              ) [SingleVarDecl]
+            ) [VarDecl]
+          ) [DeclVar]
+        ) [DeclarationList]
+        DeclVar(
+          VarDecl(
+            Type(
+             char
+              TypeNamespNameDerived2(
+              ) [TypeNamespNameDerived2]
+            ) [Type]
+            SingleVarDecl(
+              VarName(
+               nizch
+              ) [VarName]
+              VariableArray(
+              ) [VariableArray]
+            ) [SingleVarDecl]
+          ) [VarDecl]
+        ) [DeclVar]
+      ) [DeclarationList]
+      NoMethodDeclarations(
+      ) [NoMethodDeclarations]
+    ) [Namespace]
+  ) [NamespaceLists]
+  DeclarationList(
+    NoDeclList(
+    ) [NoDeclList]
+    DeclVar(
+      VarDecl(
+        Type(
+         int
+          TypeNamespNameDerived2(
+          ) [TypeNamespNameDerived2]
+        ) [Type]
+        SingleVarDecl(
+          VarName(
+           a
+          ) [VarName]
+          NoVariableArray(
+          ) [NoVariableArray]
+        ) [SingleVarDecl]
+      ) [VarDecl]
+    ) [DeclVar]
+  ) [DeclarationList]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDecl(
+      MethodVoid(
+      ) [MethodVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoPars(
+      ) [NoPars]
+      VarDeclarationList(
+        VarDeclarationList(
+          NoVarDeclarationList(
+          ) [NoVarDeclarationList]
+          VarDecl(
+            Type(
+             int
+              TypeNamespNameDerived2(
+              ) [TypeNamespNameDerived2]
+            ) [Type]
+            SingleVarDecl(
+              VarName(
+               bodovi
+              ) [VarName]
+              NoVariableArray(
+              ) [NoVariableArray]
+            ) [SingleVarDecl]
+          ) [VarDecl]
+        ) [VarDeclarationList]
+        VarDecl(
+          Type(
+           bool
+            TypeNamespNameDerived2(
+            ) [TypeNamespNameDerived2]
+          ) [Type]
+          SingleVarDecl(
+            VarName(
+             bt
+            ) [VarName]
+            NoVariableArray(
+            ) [NoVariableArray]
+          ) [SingleVarDecl]
+        ) [VarDecl]
+      ) [VarDeclarationList]
+      MethodStmtList(
+        MethodStmtList(
+          MethodStmtList(
+            MethodStmtList(
+              MethodStmtList(
+                MethodStmtList(
+                  MethodStmtList(
+                    MethodStmtList(
+                      MethodStmtList(
+                        MethodStmtList(
+                          MethodStmtList(
+                            MethodStmtList(
+                              MethodStmtList(
+                                MethodStmtList(
+                                  MethodStmtList(
+                                    MethodStmtList(
+                                      MethodStmtList(
+                                        MethodStmtList(
+                                          MethodStmtList(
+                                            MethodStmtList(
+                                              MethodStmtList(
+                                                MethodStmtList(
+                                                  MethodStmtList(
+                                                    NoMethodStmtList(
+                                                    ) [NoMethodStmtList]
+                                                    MatchedStmt(
+                                                      DesignatorStmt(
+                                                        DesignatorAssign(
+                                                          DesignatorNoNameSpace(
+                                                            DesignatorName(
+                                                             bodovi
+                                                            ) [DesignatorName]
+                                                            NoDesignatorRest(
+                                                            ) [NoDesignatorRest]
+                                                          ) [DesignatorNoNameSpace]
+                                                          Assignop(
+                                                          ) [Assignop]
+                                                          ExprNoMinus(
+                                                            Term(
+                                                              FactNum(
+                                                               0
+                                                              ) [FactNum]
+                                                              NoMoreFact(
+                                                              ) [NoMoreFact]
+                                                            ) [Term]
+                                                            NoMoreTerm(
+                                                            ) [NoMoreTerm]
+                                                          ) [ExprNoMinus]
+                                                        ) [DesignatorAssign]
+                                                      ) [DesignatorStmt]
+                                                    ) [MatchedStmt]
+                                                  ) [MethodStmtList]
+                                                  MatchedStmt(
+                                                    DesignatorStmt(
+                                                      DesignatorIncrement(
+                                                        DesignatorNoNameSpace(
+                                                          DesignatorName(
+                                                           bodovi
+                                                          ) [DesignatorName]
+                                                          NoDesignatorRest(
+                                                          ) [NoDesignatorRest]
+                                                        ) [DesignatorNoNameSpace]
+                                                      ) [DesignatorIncrement]
+                                                    ) [DesignatorStmt]
+                                                  ) [MatchedStmt]
+                                                ) [MethodStmtList]
+                                                MatchedStmt(
+                                                  DesignatorStmt(
+                                                    DesignatorAssign(
+                                                      DesignatorNoNameSpace(
+                                                        DesignatorName(
+                                                         bodovi
+                                                        ) [DesignatorName]
+                                                        NoDesignatorRest(
+                                                        ) [NoDesignatorRest]
+                                                      ) [DesignatorNoNameSpace]
+                                                      Assignop(
+                                                      ) [Assignop]
+                                                      ExprNoMinus(
+                                                        Term(
+                                                          FactDesign(
+                                                            DesignatorNoNameSpace(
+                                                              DesignatorName(
+                                                               bodovi
+                                                              ) [DesignatorName]
+                                                              NoDesignatorRest(
+                                                              ) [NoDesignatorRest]
+                                                            ) [DesignatorNoNameSpace]
+                                                            NoOptionalPar(
+                                                            ) [NoOptionalPar]
+                                                          ) [FactDesign]
+                                                          NoMoreFact(
+                                                          ) [NoMoreFact]
+                                                        ) [Term]
+                                                        MoreTerm(
+                                                          NoMoreTerm(
+                                                          ) [NoMoreTerm]
+                                                          AddPlus(
+                                                          ) [AddPlus]
+                                                          Term(
+                                                            FactDesign(
+                                                              DesignatorNameSpace(
+                                                               Konstante
+                                                                DesignatorName(
+                                                                 jedan
+                                                                ) [DesignatorName]
+                                                                NoDesignatorRest(
+                                                                ) [NoDesignatorRest]
+                                                              ) [DesignatorNameSpace]
+                                                              NoOptionalPar(
+                                                              ) [NoOptionalPar]
+                                                            ) [FactDesign]
+                                                            NoMoreFact(
+                                                            ) [NoMoreFact]
+                                                          ) [Term]
+                                                        ) [MoreTerm]
+                                                      ) [ExprNoMinus]
+                                                    ) [DesignatorAssign]
+                                                  ) [DesignatorStmt]
+                                                ) [MatchedStmt]
+                                              ) [MethodStmtList]
+                                              MatchedStmt(
+                                                DesignatorStmt(
+                                                  DesignatorAssign(
+                                                    DesignatorNoNameSpace(
+                                                      DesignatorName(
+                                                       bodovi
+                                                      ) [DesignatorName]
+                                                      NoDesignatorRest(
+                                                      ) [NoDesignatorRest]
+                                                    ) [DesignatorNoNameSpace]
+                                                    Assignop(
+                                                    ) [Assignop]
+                                                    ExprNoMinus(
+                                                      Term(
+                                                        FactDesign(
+                                                          DesignatorNoNameSpace(
+                                                            DesignatorName(
+                                                             bodovi
+                                                            ) [DesignatorName]
+                                                            NoDesignatorRest(
+                                                            ) [NoDesignatorRest]
+                                                          ) [DesignatorNoNameSpace]
+                                                          NoOptionalPar(
+                                                          ) [NoOptionalPar]
+                                                        ) [FactDesign]
+                                                        MoreFact(
+                                                          NoMoreFact(
+                                                          ) [NoMoreFact]
+                                                          MulMultiply(
+                                                          ) [MulMultiply]
+                                                          FactDesign(
+                                                            DesignatorNameSpace(
+                                                             Konstante
+                                                              DesignatorName(
+                                                               pet
+                                                              ) [DesignatorName]
+                                                              NoDesignatorRest(
+                                                              ) [NoDesignatorRest]
+                                                            ) [DesignatorNameSpace]
+                                                            NoOptionalPar(
+                                                            ) [NoOptionalPar]
+                                                          ) [FactDesign]
+                                                        ) [MoreFact]
+                                                      ) [Term]
+                                                      NoMoreTerm(
+                                                      ) [NoMoreTerm]
+                                                    ) [ExprNoMinus]
+                                                  ) [DesignatorAssign]
+                                                ) [DesignatorStmt]
+                                              ) [MatchedStmt]
+                                            ) [MethodStmtList]
+                                            MatchedStmt(
+                                              DesignatorStmt(
+                                                DesignatorDecrement(
+                                                  DesignatorNoNameSpace(
+                                                    DesignatorName(
+                                                     bodovi
+                                                    ) [DesignatorName]
+                                                    NoDesignatorRest(
+                                                    ) [NoDesignatorRest]
+                                                  ) [DesignatorNoNameSpace]
+                                                ) [DesignatorDecrement]
+                                              ) [DesignatorStmt]
+                                            ) [MatchedStmt]
+                                          ) [MethodStmtList]
+                                          MatchedStmt(
+                                            PrintStmt(
+                                              ExprNoMinus(
+                                                Term(
+                                                  FactDesign(
+                                                    DesignatorNoNameSpace(
+                                                      DesignatorName(
+                                                       bodovi
+                                                      ) [DesignatorName]
+                                                      NoDesignatorRest(
+                                                      ) [NoDesignatorRest]
+                                                    ) [DesignatorNoNameSpace]
+                                                    NoOptionalPar(
+                                                    ) [NoOptionalPar]
+                                                  ) [FactDesign]
+                                                  NoMoreFact(
+                                                  ) [NoMoreFact]
+                                                ) [Term]
+                                                NoMoreTerm(
+                                                ) [NoMoreTerm]
+                                              ) [ExprNoMinus]
+                                              NoPrintParam(
+                                              ) [NoPrintParam]
+                                            ) [PrintStmt]
+                                          ) [MatchedStmt]
+                                        ) [MethodStmtList]
+                                        MatchedStmt(
+                                          DesignatorStmt(
+                                            DesignatorAssign(
+                                              DesignatorNameSpace(
+                                               Nizovi
+                                                DesignatorName(
+                                                 niz
+                                                ) [DesignatorName]
+                                                NoDesignatorRest(
+                                                ) [NoDesignatorRest]
+                                              ) [DesignatorNameSpace]
+                                              Assignop(
+                                              ) [Assignop]
+                                              ExprNoMinus(
+                                                Term(
+                                                  FactNTE(
+                                                    NewTE(
+                                                      Type(
+                                                       int
+                                                        TypeNamespNameDerived2(
+                                                        ) [TypeNamespNameDerived2]
+                                                      ) [Type]
+                                                      NewTypeExpr(
+                                                        ExprNoMinus(
+                                                          Term(
+                                                            FactNum(
+                                                             3
+                                                            ) [FactNum]
+                                                            NoMoreFact(
+                                                            ) [NoMoreFact]
+                                                          ) [Term]
+                                                          NoMoreTerm(
+                                                          ) [NoMoreTerm]
+                                                        ) [ExprNoMinus]
+                                                      ) [NewTypeExpr]
+                                                    ) [NewTE]
+                                                  ) [FactNTE]
+                                                  NoMoreFact(
+                                                  ) [NoMoreFact]
+                                                ) [Term]
+                                                NoMoreTerm(
+                                                ) [NoMoreTerm]
+                                              ) [ExprNoMinus]
+                                            ) [DesignatorAssign]
+                                          ) [DesignatorStmt]
+                                        ) [MatchedStmt]
+                                      ) [MethodStmtList]
+                                      MatchedStmt(
+                                        DesignatorStmt(
+                                          DesignatorAssign(
+                                            DesignatorNameSpace(
+                                             Nizovi
+                                              DesignatorName(
+                                               niz
+                                              ) [DesignatorName]
+                                              DesignatorRestArray(
+                                                NoDesignatorRest(
+                                                ) [NoDesignatorRest]
+                                                ExprNoMinus(
+                                                  Term(
+                                                    FactDesign(
+                                                      DesignatorNameSpace(
+                                                       Konstante
+                                                        DesignatorName(
+                                                         nula
+                                                        ) [DesignatorName]
+                                                        NoDesignatorRest(
+                                                        ) [NoDesignatorRest]
+                                                      ) [DesignatorNameSpace]
+                                                      NoOptionalPar(
+                                                      ) [NoOptionalPar]
+                                                    ) [FactDesign]
+                                                    NoMoreFact(
+                                                    ) [NoMoreFact]
+                                                  ) [Term]
+                                                  NoMoreTerm(
+                                                  ) [NoMoreTerm]
+                                                ) [ExprNoMinus]
+                                              ) [DesignatorRestArray]
+                                            ) [DesignatorNameSpace]
+                                            Assignop(
+                                            ) [Assignop]
+                                            ExprNoMinus(
+                                              Term(
+                                                FactDesign(
+                                                  DesignatorNameSpace(
+                                                   Konstante
+                                                    DesignatorName(
+                                                     jedan
+                                                    ) [DesignatorName]
+                                                    NoDesignatorRest(
+                                                    ) [NoDesignatorRest]
+                                                  ) [DesignatorNameSpace]
+                                                  NoOptionalPar(
+                                                  ) [NoOptionalPar]
+                                                ) [FactDesign]
+                                                NoMoreFact(
+                                                ) [NoMoreFact]
+                                              ) [Term]
+                                              NoMoreTerm(
+                                              ) [NoMoreTerm]
+                                            ) [ExprNoMinus]
+                                          ) [DesignatorAssign]
+                                        ) [DesignatorStmt]
+                                      ) [MatchedStmt]
+                                    ) [MethodStmtList]
+                                    MatchedStmt(
+                                      DesignatorStmt(
+                                        DesignatorAssign(
+                                          DesignatorNameSpace(
+                                           Nizovi
+                                            DesignatorName(
+                                             niz
+                                            ) [DesignatorName]
+                                            DesignatorRestArray(
+                                              NoDesignatorRest(
+                                              ) [NoDesignatorRest]
+                                              ExprNoMinus(
+                                                Term(
+                                                  FactNum(
+                                                   1
+                                                  ) [FactNum]
+                                                  NoMoreFact(
+                                                  ) [NoMoreFact]
+                                                ) [Term]
+                                                NoMoreTerm(
+                                                ) [NoMoreTerm]
+                                              ) [ExprNoMinus]
+                                            ) [DesignatorRestArray]
+                                          ) [DesignatorNameSpace]
+                                          Assignop(
+                                          ) [Assignop]
+                                          ExprNoMinus(
+                                            Term(
+                                              FactNum(
+                                               2
+                                              ) [FactNum]
+                                              NoMoreFact(
+                                              ) [NoMoreFact]
+                                            ) [Term]
+                                            NoMoreTerm(
+                                            ) [NoMoreTerm]
+                                          ) [ExprNoMinus]
+                                        ) [DesignatorAssign]
+                                      ) [DesignatorStmt]
+                                    ) [MatchedStmt]
+                                  ) [MethodStmtList]
+                                  MatchedStmt(
+                                    DesignatorStmt(
+                                      DesignatorAssign(
+                                        DesignatorNameSpace(
+                                         Nizovi
+                                          DesignatorName(
+                                           niz
+                                          ) [DesignatorName]
+                                          DesignatorRestArray(
+                                            NoDesignatorRest(
+                                            ) [NoDesignatorRest]
+                                            ExprNoMinus(
+                                              Term(
+                                                FactDesign(
+                                                  DesignatorNameSpace(
+                                                   Nizovi
+                                                    DesignatorName(
+                                                     niz
+                                                    ) [DesignatorName]
+                                                    DesignatorRestArray(
+                                                      NoDesignatorRest(
+                                                      ) [NoDesignatorRest]
+                                                      ExprNoMinus(
+                                                        Term(
+                                                          FactDesign(
+                                                            DesignatorNameSpace(
+                                                             Konstante
+                                                              DesignatorName(
+                                                               jedan
+                                                              ) [DesignatorName]
+                                                              NoDesignatorRest(
+                                                              ) [NoDesignatorRest]
+                                                            ) [DesignatorNameSpace]
+                                                            NoOptionalPar(
+                                                            ) [NoOptionalPar]
+                                                          ) [FactDesign]
+                                                          NoMoreFact(
+                                                          ) [NoMoreFact]
+                                                        ) [Term]
+                                                        NoMoreTerm(
+                                                        ) [NoMoreTerm]
+                                                      ) [ExprNoMinus]
+                                                    ) [DesignatorRestArray]
+                                                  ) [DesignatorNameSpace]
+                                                  NoOptionalPar(
+                                                  ) [NoOptionalPar]
+                                                ) [FactDesign]
+                                                NoMoreFact(
+                                                ) [NoMoreFact]
+                                              ) [Term]
+                                              NoMoreTerm(
+                                              ) [NoMoreTerm]
+                                            ) [ExprNoMinus]
+                                          ) [DesignatorRestArray]
+                                        ) [DesignatorNameSpace]
+                                        Assignop(
+                                        ) [Assignop]
+                                        ExprNoMinus(
+                                          Term(
+                                            FactDesign(
+                                              DesignatorNameSpace(
+                                               Nizovi
+                                                DesignatorName(
+                                                 niz
+                                                ) [DesignatorName]
+                                                DesignatorRestArray(
+                                                  NoDesignatorRest(
+                                                  ) [NoDesignatorRest]
+                                                  ExprNoMinus(
+                                                    Term(
+                                                      FactDesign(
+                                                        DesignatorNameSpace(
+                                                         Nizovi
+                                                          DesignatorName(
+                                                           niz
+                                                          ) [DesignatorName]
+                                                          DesignatorRestArray(
+                                                            NoDesignatorRest(
+                                                            ) [NoDesignatorRest]
+                                                            ExprNoMinus(
+                                                              Term(
+                                                                FactNum(
+                                                                 0
+                                                                ) [FactNum]
+                                                                NoMoreFact(
+                                                                ) [NoMoreFact]
+                                                              ) [Term]
+                                                              NoMoreTerm(
+                                                              ) [NoMoreTerm]
+                                                            ) [ExprNoMinus]
+                                                          ) [DesignatorRestArray]
+                                                        ) [DesignatorNameSpace]
+                                                        NoOptionalPar(
+                                                        ) [NoOptionalPar]
+                                                      ) [FactDesign]
+                                                      NoMoreFact(
+                                                      ) [NoMoreFact]
+                                                    ) [Term]
+                                                    NoMoreTerm(
+                                                    ) [NoMoreTerm]
+                                                  ) [ExprNoMinus]
+                                                ) [DesignatorRestArray]
+                                              ) [DesignatorNameSpace]
+                                              NoOptionalPar(
+                                              ) [NoOptionalPar]
+                                            ) [FactDesign]
+                                            MoreFact(
+                                              NoMoreFact(
+                                              ) [NoMoreFact]
+                                              MulMultiply(
+                                              ) [MulMultiply]
+                                              FactNum(
+                                               3
+                                              ) [FactNum]
+                                            ) [MoreFact]
+                                          ) [Term]
+                                          NoMoreTerm(
+                                          ) [NoMoreTerm]
+                                        ) [ExprNoMinus]
+                                      ) [DesignatorAssign]
+                                    ) [DesignatorStmt]
+                                  ) [MatchedStmt]
+                                ) [MethodStmtList]
+                                MatchedStmt(
+                                  DesignatorStmt(
+                                    DesignatorAssign(
+                                      DesignatorNoNameSpace(
+                                        DesignatorName(
+                                         bodovi
+                                        ) [DesignatorName]
+                                        NoDesignatorRest(
+                                        ) [NoDesignatorRest]
+                                      ) [DesignatorNoNameSpace]
+                                      Assignop(
+                                      ) [Assignop]
+                                      ExprNoMinus(
+                                        Term(
+                                          FactDesign(
+                                            DesignatorNameSpace(
+                                             Nizovi
+                                              DesignatorName(
+                                               niz
+                                              ) [DesignatorName]
+                                              DesignatorRestArray(
+                                                NoDesignatorRest(
+                                                ) [NoDesignatorRest]
+                                                ExprNoMinus(
+                                                  Term(
+                                                    FactNum(
+                                                     2
+                                                    ) [FactNum]
+                                                    NoMoreFact(
+                                                    ) [NoMoreFact]
+                                                  ) [Term]
+                                                  NoMoreTerm(
+                                                  ) [NoMoreTerm]
+                                                ) [ExprNoMinus]
+                                              ) [DesignatorRestArray]
+                                            ) [DesignatorNameSpace]
+                                            NoOptionalPar(
+                                            ) [NoOptionalPar]
+                                          ) [FactDesign]
+                                          MoreFact(
+                                            NoMoreFact(
+                                            ) [NoMoreFact]
+                                            MulDivide(
+                                            ) [MulDivide]
+                                            FactDesign(
+                                              DesignatorNameSpace(
+                                               Nizovi
+                                                DesignatorName(
+                                                 niz
+                                                ) [DesignatorName]
+                                                DesignatorRestArray(
+                                                  NoDesignatorRest(
+                                                  ) [NoDesignatorRest]
+                                                  ExprNoMinus(
+                                                    Term(
+                                                      FactNum(
+                                                       0
+                                                      ) [FactNum]
+                                                      NoMoreFact(
+                                                      ) [NoMoreFact]
+                                                    ) [Term]
+                                                    NoMoreTerm(
+                                                    ) [NoMoreTerm]
+                                                  ) [ExprNoMinus]
+                                                ) [DesignatorRestArray]
+                                              ) [DesignatorNameSpace]
+                                              NoOptionalPar(
+                                              ) [NoOptionalPar]
+                                            ) [FactDesign]
+                                          ) [MoreFact]
+                                        ) [Term]
+                                        NoMoreTerm(
+                                        ) [NoMoreTerm]
+                                      ) [ExprNoMinus]
+                                    ) [DesignatorAssign]
+                                  ) [DesignatorStmt]
+                                ) [MatchedStmt]
+                              ) [MethodStmtList]
+                              MatchedStmt(
+                                PrintStmt(
+                                  ExprNoMinus(
+                                    Term(
+                                      FactDesign(
+                                        DesignatorNoNameSpace(
+                                          DesignatorName(
+                                           bodovi
+                                          ) [DesignatorName]
+                                          NoDesignatorRest(
+                                          ) [NoDesignatorRest]
+                                        ) [DesignatorNoNameSpace]
+                                        NoOptionalPar(
+                                        ) [NoOptionalPar]
+                                      ) [FactDesign]
+                                      NoMoreFact(
+                                      ) [NoMoreFact]
+                                    ) [Term]
+                                    NoMoreTerm(
+                                    ) [NoMoreTerm]
+                                  ) [ExprNoMinus]
+                                  NoPrintParam(
+                                  ) [NoPrintParam]
+                                ) [PrintStmt]
+                              ) [MatchedStmt]
+                            ) [MethodStmtList]
+                            MatchedStmt(
+                              PrintStmt(
+                                ExprNoMinus(
+                                  Term(
+                                    FactDesign(
+                                      DesignatorNameSpace(
+                                       Nizovi
+                                        DesignatorName(
+                                         niz
+                                        ) [DesignatorName]
+                                        DesignatorRestArray(
+                                          NoDesignatorRest(
+                                          ) [NoDesignatorRest]
+                                          ExprNoMinus(
+                                            Term(
+                                              FactNum(
+                                               2
+                                              ) [FactNum]
+                                              NoMoreFact(
+                                              ) [NoMoreFact]
+                                            ) [Term]
+                                            NoMoreTerm(
+                                            ) [NoMoreTerm]
+                                          ) [ExprNoMinus]
+                                        ) [DesignatorRestArray]
+                                      ) [DesignatorNameSpace]
+                                      NoOptionalPar(
+                                      ) [NoOptionalPar]
+                                    ) [FactDesign]
+                                    NoMoreFact(
+                                    ) [NoMoreFact]
+                                  ) [Term]
+                                  NoMoreTerm(
+                                  ) [NoMoreTerm]
+                                ) [ExprNoMinus]
+                                NoPrintParam(
+                                ) [NoPrintParam]
+                              ) [PrintStmt]
+                            ) [MatchedStmt]
+                          ) [MethodStmtList]
+                          MatchedStmt(
+                            DesignatorStmt(
+                              DesignatorAssign(
+                                DesignatorNameSpace(
+                                 Nizovi
+                                  DesignatorName(
+                                   nizch
+                                  ) [DesignatorName]
+                                  NoDesignatorRest(
+                                  ) [NoDesignatorRest]
+                                ) [DesignatorNameSpace]
+                                Assignop(
+                                ) [Assignop]
+                                ExprNoMinus(
+                                  Term(
+                                    FactNTE(
+                                      NewTE(
+                                        Type(
+                                         char
+                                          TypeNamespNameDerived2(
+                                          ) [TypeNamespNameDerived2]
+                                        ) [Type]
+                                        NewTypeExpr(
+                                          ExprNoMinus(
+                                            Term(
+                                              FactNum(
+                                               3
+                                              ) [FactNum]
+                                              NoMoreFact(
+                                              ) [NoMoreFact]
+                                            ) [Term]
+                                            NoMoreTerm(
+                                            ) [NoMoreTerm]
+                                          ) [ExprNoMinus]
+                                        ) [NewTypeExpr]
+                                      ) [NewTE]
+                                    ) [FactNTE]
+                                    NoMoreFact(
+                                    ) [NoMoreFact]
+                                  ) [Term]
+                                  NoMoreTerm(
+                                  ) [NoMoreTerm]
+                                ) [ExprNoMinus]
+                              ) [DesignatorAssign]
+                            ) [DesignatorStmt]
+                          ) [MatchedStmt]
+                        ) [MethodStmtList]
+                        MatchedStmt(
+                          DesignatorStmt(
+                            DesignatorAssign(
+                              DesignatorNameSpace(
+                               Nizovi
+                                DesignatorName(
+                                 nizch
+                                ) [DesignatorName]
+                                DesignatorRestArray(
+                                  NoDesignatorRest(
+                                  ) [NoDesignatorRest]
+                                  ExprNoMinus(
+                                    Term(
+                                      FactNum(
+                                       0
+                                      ) [FactNum]
+                                      NoMoreFact(
+                                      ) [NoMoreFact]
+                                    ) [Term]
+                                    NoMoreTerm(
+                                    ) [NoMoreTerm]
+                                  ) [ExprNoMinus]
+                                ) [DesignatorRestArray]
+                              ) [DesignatorNameSpace]
+                              Assignop(
+                              ) [Assignop]
+                              ExprNoMinus(
+                                Term(
+                                  FactChar(
+                                   a
+                                  ) [FactChar]
+                                  NoMoreFact(
+                                  ) [NoMoreFact]
+                                ) [Term]
+                                NoMoreTerm(
+                                ) [NoMoreTerm]
+                              ) [ExprNoMinus]
+                            ) [DesignatorAssign]
+                          ) [DesignatorStmt]
+                        ) [MatchedStmt]
+                      ) [MethodStmtList]
+                      MatchedStmt(
+                        DesignatorStmt(
+                          DesignatorAssign(
+                            DesignatorNameSpace(
+                             Nizovi
+                              DesignatorName(
+                               nizch
+                              ) [DesignatorName]
+                              DesignatorRestArray(
+                                NoDesignatorRest(
+                                ) [NoDesignatorRest]
+                                ExprNoMinus(
+                                  Term(
+                                    FactDesign(
+                                      DesignatorNameSpace(
+                                       Konstante
+                                        DesignatorName(
+                                         jedan
+                                        ) [DesignatorName]
+                                        NoDesignatorRest(
+                                        ) [NoDesignatorRest]
+                                      ) [DesignatorNameSpace]
+                                      NoOptionalPar(
+                                      ) [NoOptionalPar]
+                                    ) [FactDesign]
+                                    NoMoreFact(
+                                    ) [NoMoreFact]
+                                  ) [Term]
+                                  NoMoreTerm(
+                                  ) [NoMoreTerm]
+                                ) [ExprNoMinus]
+                              ) [DesignatorRestArray]
+                            ) [DesignatorNameSpace]
+                            Assignop(
+                            ) [Assignop]
+                            ExprNoMinus(
+                              Term(
+                                FactChar(
+                                 b
+                                ) [FactChar]
+                                NoMoreFact(
+                                ) [NoMoreFact]
+                              ) [Term]
+                              NoMoreTerm(
+                              ) [NoMoreTerm]
+                            ) [ExprNoMinus]
+                          ) [DesignatorAssign]
+                        ) [DesignatorStmt]
+                      ) [MatchedStmt]
+                    ) [MethodStmtList]
+                    MatchedStmt(
+                      DesignatorStmt(
+                        DesignatorAssign(
+                          DesignatorNameSpace(
+                           Nizovi
+                            DesignatorName(
+                             nizch
+                            ) [DesignatorName]
+                            DesignatorRestArray(
+                              NoDesignatorRest(
+                              ) [NoDesignatorRest]
+                              ExprNoMinus(
+                                Term(
+                                  FactDesign(
+                                    DesignatorNameSpace(
+                                     Konstante
+                                      DesignatorName(
+                                       pet
+                                      ) [DesignatorName]
+                                      NoDesignatorRest(
+                                      ) [NoDesignatorRest]
+                                    ) [DesignatorNameSpace]
+                                    NoOptionalPar(
+                                    ) [NoOptionalPar]
+                                  ) [FactDesign]
+                                  NoMoreFact(
+                                  ) [NoMoreFact]
+                                ) [Term]
+                                MoreTerm(
+                                  NoMoreTerm(
+                                  ) [NoMoreTerm]
+                                  AddMinus(
+                                  ) [AddMinus]
+                                  Term(
+                                    FactNum(
+                                     3
+                                    ) [FactNum]
+                                    NoMoreFact(
+                                    ) [NoMoreFact]
+                                  ) [Term]
+                                ) [MoreTerm]
+                              ) [ExprNoMinus]
+                            ) [DesignatorRestArray]
+                          ) [DesignatorNameSpace]
+                          Assignop(
+                          ) [Assignop]
+                          ExprNoMinus(
+                            Term(
+                              FactChar(
+                               c
+                              ) [FactChar]
+                              NoMoreFact(
+                              ) [NoMoreFact]
+                            ) [Term]
+                            NoMoreTerm(
+                            ) [NoMoreTerm]
+                          ) [ExprNoMinus]
+                        ) [DesignatorAssign]
+                      ) [DesignatorStmt]
+                    ) [MatchedStmt]
+                  ) [MethodStmtList]
+                  MatchedStmt(
+                    PrintStmt(
+                      ExprNoMinus(
+                        Term(
+                          FactDesign(
+                            DesignatorNameSpace(
+                             Nizovi
+                              DesignatorName(
+                               nizch
+                              ) [DesignatorName]
+                              DesignatorRestArray(
+                                NoDesignatorRest(
+                                ) [NoDesignatorRest]
+                                ExprNoMinus(
+                                  Term(
+                                    FactNum(
+                                     1
+                                    ) [FactNum]
+                                    NoMoreFact(
+                                    ) [NoMoreFact]
+                                  ) [Term]
+                                  NoMoreTerm(
+                                  ) [NoMoreTerm]
+                                ) [ExprNoMinus]
+                              ) [DesignatorRestArray]
+                            ) [DesignatorNameSpace]
+                            NoOptionalPar(
+                            ) [NoOptionalPar]
+                          ) [FactDesign]
+                          NoMoreFact(
+                          ) [NoMoreFact]
+                        ) [Term]
+                        NoMoreTerm(
+                        ) [NoMoreTerm]
+                      ) [ExprNoMinus]
+                      NoPrintParam(
+                      ) [NoPrintParam]
+                    ) [PrintStmt]
+                  ) [MatchedStmt]
+                ) [MethodStmtList]
+                MatchedStmt(
+                  PrintStmt(
+                    ExprNoMinus(
+                      Term(
+                        FactDesign(
+                          DesignatorNameSpace(
+                           Nizovi
+                            DesignatorName(
+                             nizch
+                            ) [DesignatorName]
+                            DesignatorRestArray(
+                              NoDesignatorRest(
+                              ) [NoDesignatorRest]
+                              ExprNoMinus(
+                                Term(
+                                  FactDesign(
+                                    DesignatorNameSpace(
+                                     Konstante
+                                      DesignatorName(
+                                       jedan
+                                      ) [DesignatorName]
+                                      NoDesignatorRest(
+                                      ) [NoDesignatorRest]
+                                    ) [DesignatorNameSpace]
+                                    NoOptionalPar(
+                                    ) [NoOptionalPar]
+                                  ) [FactDesign]
+                                  MoreFact(
+                                    NoMoreFact(
+                                    ) [NoMoreFact]
+                                    MulMultiply(
+                                    ) [MulMultiply]
+                                    FactNum(
+                                     2
+                                    ) [FactNum]
+                                  ) [MoreFact]
+                                ) [Term]
+                                NoMoreTerm(
+                                ) [NoMoreTerm]
+                              ) [ExprNoMinus]
+                            ) [DesignatorRestArray]
+                          ) [DesignatorNameSpace]
+                          NoOptionalPar(
+                          ) [NoOptionalPar]
+                        ) [FactDesign]
+                        NoMoreFact(
+                        ) [NoMoreFact]
+                      ) [Term]
+                      NoMoreTerm(
+                      ) [NoMoreTerm]
+                    ) [ExprNoMinus]
+                    NoPrintParam(
+                    ) [NoPrintParam]
+                  ) [PrintStmt]
+                ) [MatchedStmt]
+              ) [MethodStmtList]
+              MatchedStmt(
+                DesignatorStmt(
+                  DesignatorAssign(
+                    DesignatorNoNameSpace(
+                      DesignatorName(
+                       a
+                      ) [DesignatorName]
+                      NoDesignatorRest(
+                      ) [NoDesignatorRest]
+                    ) [DesignatorNoNameSpace]
+                    Assignop(
+                    ) [Assignop]
+                    ExprNoMinus(
+                      Term(
+                        FactNum(
+                         1
+                        ) [FactNum]
+                        NoMoreFact(
+                        ) [NoMoreFact]
+                      ) [Term]
+                      NoMoreTerm(
+                      ) [NoMoreTerm]
+                    ) [ExprNoMinus]
+                  ) [DesignatorAssign]
+                ) [DesignatorStmt]
+              ) [MatchedStmt]
+            ) [MethodStmtList]
+            MatchedStmt(
+              ReadStmt(
+                DesignatorNoNameSpace(
+                  DesignatorName(
+                   bodovi
+                  ) [DesignatorName]
+                  NoDesignatorRest(
+                  ) [NoDesignatorRest]
+                ) [DesignatorNoNameSpace]
+              ) [ReadStmt]
+            ) [MatchedStmt]
+          ) [MethodStmtList]
+          MatchedStmt(
+            DesignatorStmt(
+              DesignatorAssign(
+                DesignatorNoNameSpace(
+                  DesignatorName(
+                   bodovi
+                  ) [DesignatorName]
+                  NoDesignatorRest(
+                  ) [NoDesignatorRest]
+                ) [DesignatorNoNameSpace]
+                Assignop(
+                ) [Assignop]
+                ExprMinus(
+                  Term(
+                    FactDesign(
+                      DesignatorNoNameSpace(
+                        DesignatorName(
+                         bodovi
+                        ) [DesignatorName]
+                        NoDesignatorRest(
+                        ) [NoDesignatorRest]
+                      ) [DesignatorNoNameSpace]
+                      NoOptionalPar(
+                      ) [NoOptionalPar]
+                    ) [FactDesign]
+                    NoMoreFact(
+                    ) [NoMoreFact]
+                  ) [Term]
+                  MoreTerm(
+                    MoreTerm(
+                      NoMoreTerm(
+                      ) [NoMoreTerm]
+                      AddPlus(
+                      ) [AddPlus]
+                      Term(
+                        FactExpr(
+                          ExprNoMinus(
+                            Term(
+                              FactDesign(
+                                DesignatorNameSpace(
+                                 Konstante
+                                  DesignatorName(
+                                   pet
+                                  ) [DesignatorName]
+                                  NoDesignatorRest(
+                                  ) [NoDesignatorRest]
+                                ) [DesignatorNameSpace]
+                                NoOptionalPar(
+                                ) [NoOptionalPar]
+                              ) [FactDesign]
+                              MoreFact(
+                                MoreFact(
+                                  NoMoreFact(
+                                  ) [NoMoreFact]
+                                  MulMultiply(
+                                  ) [MulMultiply]
+                                  FactDesign(
+                                    DesignatorNoNameSpace(
+                                      DesignatorName(
+                                       a
+                                      ) [DesignatorName]
+                                      NoDesignatorRest(
+                                      ) [NoDesignatorRest]
+                                    ) [DesignatorNoNameSpace]
+                                    NoOptionalPar(
+                                    ) [NoOptionalPar]
+                                  ) [FactDesign]
+                                ) [MoreFact]
+                                MulDivide(
+                                ) [MulDivide]
+                                FactNum(
+                                 2
+                                ) [FactNum]
+                              ) [MoreFact]
+                            ) [Term]
+                            MoreTerm(
+                              NoMoreTerm(
+                              ) [NoMoreTerm]
+                              AddMinus(
+                              ) [AddMinus]
+                              Term(
+                                FactDesign(
+                                  DesignatorNameSpace(
+                                   Konstante
+                                    DesignatorName(
+                                     jedan
+                                    ) [DesignatorName]
+                                    NoDesignatorRest(
+                                    ) [NoDesignatorRest]
+                                  ) [DesignatorNameSpace]
+                                  NoOptionalPar(
+                                  ) [NoOptionalPar]
+                                ) [FactDesign]
+                                NoMoreFact(
+                                ) [NoMoreFact]
+                              ) [Term]
+                            ) [MoreTerm]
+                          ) [ExprNoMinus]
+                        ) [FactExpr]
+                        MoreFact(
+                          NoMoreFact(
+                          ) [NoMoreFact]
+                          MulMultiply(
+                          ) [MulMultiply]
+                          FactDesign(
+                            DesignatorNoNameSpace(
+                              DesignatorName(
+                               bodovi
+                              ) [DesignatorName]
+                              NoDesignatorRest(
+                              ) [NoDesignatorRest]
+                            ) [DesignatorNoNameSpace]
+                            NoOptionalPar(
+                            ) [NoOptionalPar]
+                          ) [FactDesign]
+                        ) [MoreFact]
+                      ) [Term]
+                    ) [MoreTerm]
+                    AddMinus(
+                    ) [AddMinus]
+                    Term(
+                      FactExpr(
+                        ExprNoMinus(
+                          Term(
+                            FactNum(
+                             3
+                            ) [FactNum]
+                            MoreFact(
+                              NoMoreFact(
+                              ) [NoMoreFact]
+                              MulMod(
+                              ) [MulMod]
+                              FactNum(
+                               2
+                              ) [FactNum]
+                            ) [MoreFact]
+                          ) [Term]
+                          MoreTerm(
+                            MoreTerm(
+                              NoMoreTerm(
+                              ) [NoMoreTerm]
+                              AddPlus(
+                              ) [AddPlus]
+                              Term(
+                                FactNum(
+                                 3
+                                ) [FactNum]
+                                MoreFact(
+                                  NoMoreFact(
+                                  ) [NoMoreFact]
+                                  MulMultiply(
+                                  ) [MulMultiply]
+                                  FactNum(
+                                   2
+                                  ) [FactNum]
+                                ) [MoreFact]
+                              ) [Term]
+                            ) [MoreTerm]
+                            AddMinus(
+                            ) [AddMinus]
+                            Term(
+                              FactNum(
+                               3
+                              ) [FactNum]
+                              NoMoreFact(
+                              ) [NoMoreFact]
+                            ) [Term]
+                          ) [MoreTerm]
+                        ) [ExprNoMinus]
+                      ) [FactExpr]
+                      NoMoreFact(
+                      ) [NoMoreFact]
+                    ) [Term]
+                  ) [MoreTerm]
+                ) [ExprMinus]
+              ) [DesignatorAssign]
+            ) [DesignatorStmt]
+          ) [MatchedStmt]
+        ) [MethodStmtList]
+        MatchedStmt(
+          PrintStmt(
+            ExprNoMinus(
+              Term(
+                FactDesign(
+                  DesignatorNoNameSpace(
+                    DesignatorName(
+                     bodovi
+                    ) [DesignatorName]
+                    NoDesignatorRest(
+                    ) [NoDesignatorRest]
+                  ) [DesignatorNoNameSpace]
+                  NoOptionalPar(
+                  ) [NoOptionalPar]
+                ) [FactDesign]
+                NoMoreFact(
+                ) [NoMoreFact]
+              ) [Term]
+              NoMoreTerm(
+              ) [NoMoreTerm]
+            ) [ExprNoMinus]
+            NoPrintParam(
+            ) [NoPrintParam]
+          ) [PrintStmt]
+        ) [MatchedStmt]
+      ) [MethodStmtList]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  00:09:26,663 - ============================================
+INFO  00:09:26,664 - Detektovana upotreba simbola bodovi na liniji 28
+INFO  00:09:26,665 - Detektovana upotreba simbola bodovi na liniji 29
+INFO  00:09:26,665 - Detektovana upotreba simbola bodovi na liniji 30
+INFO  00:09:26,665 - Detektovana upotreba simbola bodovi na liniji 30
+ERROR 00:09:26,665 - Greska na liniji 30 ime jedan nije deklarisano! 
+INFO  00:09:26,666 - Detektovana upotreba simbola jedan na liniji 30
+INFO  00:09:26,666 - Detektovana upotreba simbola bodovi na liniji 31
+INFO  00:09:26,666 - Detektovana upotreba simbola bodovi na liniji 31
+ERROR 00:09:26,666 - Greska na liniji 31 ime pet nije deklarisano! 
+INFO  00:09:26,666 - Detektovana upotreba simbola pet na liniji 31
+INFO  00:09:26,666 - Detektovana upotreba simbola bodovi na liniji 32
+INFO  00:09:26,666 - Detektovana upotreba simbola bodovi na liniji 33
+ERROR 00:09:26,666 - Greska na liniji 35 ime niz nije deklarisano! 
+INFO  00:09:26,666 - Detektovana upotreba simbola niz na liniji 35
+ERROR 00:09:26,666 - Greska na liniji 36 ime niz nije deklarisano! 
+INFO  00:09:26,666 - Detektovana upotreba simbola niz na liniji 36
+ERROR 00:09:26,666 - Greska na liniji 36 ime nula nije deklarisano! 
+INFO  00:09:26,666 - Detektovana upotreba simbola nula na liniji 36
+ERROR 00:09:26,666 - Greska na liniji 36 ime jedan nije deklarisano! 
+INFO  00:09:26,666 - Detektovana upotreba simbola jedan na liniji 36
+ERROR 00:09:26,666 - Greska na liniji 37 ime niz nije deklarisano! 
+INFO  00:09:26,666 - Detektovana upotreba simbola niz na liniji 37
+ERROR 00:09:26,667 - Greska na liniji 38 ime niz nije deklarisano! 
+INFO  00:09:26,667 - Detektovana upotreba simbola niz na liniji 38
+ERROR 00:09:26,667 - Greska na liniji 38 ime niz nije deklarisano! 
+INFO  00:09:26,667 - Detektovana upotreba simbola niz na liniji 38
+ERROR 00:09:26,667 - Greska na liniji 38 ime jedan nije deklarisano! 
+INFO  00:09:26,667 - Detektovana upotreba simbola jedan na liniji 38
+ERROR 00:09:26,667 - Greska na liniji 38 ime niz nije deklarisano! 
+INFO  00:09:26,667 - Detektovana upotreba simbola niz na liniji 38
+ERROR 00:09:26,667 - Greska na liniji 38 ime niz nije deklarisano! 
+INFO  00:09:26,667 - Detektovana upotreba simbola niz na liniji 38
+INFO  00:09:26,667 - Detektovana upotreba simbola bodovi na liniji 39
+ERROR 00:09:26,667 - Greska na liniji 39 ime niz nije deklarisano! 
+INFO  00:09:26,667 - Detektovana upotreba simbola niz na liniji 39
+ERROR 00:09:26,668 - Greska na liniji 39 ime niz nije deklarisano! 
+INFO  00:09:26,668 - Detektovana upotreba simbola niz na liniji 39
+INFO  00:09:26,668 - Detektovana upotreba simbola bodovi na liniji 40
+ERROR 00:09:26,668 - Greska na liniji 41 ime niz nije deklarisano! 
+INFO  00:09:26,668 - Detektovana upotreba simbola niz na liniji 41
+ERROR 00:09:26,668 - Greska na liniji 44 ime nizch nije deklarisano! 
+INFO  00:09:26,668 - Detektovana upotreba simbola nizch na liniji 44
+ERROR 00:09:26,668 - Greska na liniji 45 ime nizch nije deklarisano! 
+INFO  00:09:26,668 - Detektovana upotreba simbola nizch na liniji 45
+ERROR 00:09:26,668 - Greska na liniji 46 ime nizch nije deklarisano! 
+INFO  00:09:26,668 - Detektovana upotreba simbola nizch na liniji 46
+ERROR 00:09:26,668 - Greska na liniji 46 ime jedan nije deklarisano! 
+INFO  00:09:26,668 - Detektovana upotreba simbola jedan na liniji 46
+ERROR 00:09:26,668 - Greska na liniji 47 ime nizch nije deklarisano! 
+INFO  00:09:26,668 - Detektovana upotreba simbola nizch na liniji 47
+ERROR 00:09:26,668 - Greska na liniji 47 ime pet nije deklarisano! 
+INFO  00:09:26,668 - Detektovana upotreba simbola pet na liniji 47
+ERROR 00:09:26,668 - Greska na liniji 48 ime nizch nije deklarisano! 
+INFO  00:09:26,668 - Detektovana upotreba simbola nizch na liniji 48
+ERROR 00:09:26,668 - Greska na liniji 49 ime nizch nije deklarisano! 
+INFO  00:09:26,668 - Detektovana upotreba simbola nizch na liniji 49
+ERROR 00:09:26,668 - Greska na liniji 49 ime jedan nije deklarisano! 
+INFO  00:09:26,669 - Detektovana upotreba simbola jedan na liniji 49
+INFO  00:09:26,669 - Detektovana upotreba simbola a na liniji 51
+INFO  00:09:26,669 - Detektovana upotreba simbola bodovi na liniji 52
+INFO  00:09:26,669 - Detektovana upotreba simbola bodovi na liniji 53
+INFO  00:09:26,669 - Detektovana upotreba simbola bodovi na liniji 53
+ERROR 00:09:26,669 - Greska na liniji 53 ime pet nije deklarisano! 
+INFO  00:09:26,669 - Detektovana upotreba simbola pet na liniji 53
+INFO  00:09:26,669 - Detektovana upotreba simbola a na liniji 53
+ERROR 00:09:26,669 - Greska na liniji 53 ime jedan nije deklarisano! 
+INFO  00:09:26,669 - Detektovana upotreba simbola jedan na liniji 53
+INFO  00:09:26,669 - Detektovana upotreba simbola bodovi na liniji 53
+INFO  00:09:26,669 - Detektovana upotreba simbola bodovi na liniji 54
+INFO  00:09:26,669 -  Deklarisanih promenljivih ima = 5
+INFO  00:09:26,669 - ============================================

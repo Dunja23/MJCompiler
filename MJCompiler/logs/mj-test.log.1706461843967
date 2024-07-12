@@ -1,0 +1,78 @@
+INFO  18:07:30,166 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:07:30,215 - #2 program
+INFO  18:07:30,215 - #45 MJProgram
+INFO  18:07:30,215 - #45 int
+INFO  18:07:30,215 - #45 x
+INFO  18:07:30,215 - #5 ;
+INFO  18:07:30,215 - #45 int
+INFO  18:07:30,215 - #45 y
+INFO  18:07:30,215 - #5 ;
+INFO  18:07:30,215 - #3 {
+INFO  18:07:30,215 - #45 int
+INFO  18:07:30,215 - #45 k
+INFO  18:07:30,215 - #6 (
+INFO  18:07:30,215 - #7 )
+INFO  18:07:30,215 - #45 int
+INFO  18:07:30,215 - #45 c
+INFO  18:07:30,215 - #5 ;
+INFO  18:07:30,215 - #3 {
+INFO  18:07:30,215 - #45 c
+INFO  18:07:30,215 - #12 =
+INFO  18:07:30,215 - #44 0
+INFO  18:07:30,215 - #5 ;
+INFO  18:07:30,229 - #10 return
+INFO  18:07:30,229 - #45 c
+INFO  18:07:30,229 - #11 +
+INFO  18:07:30,229 - #44 2
+INFO  18:07:30,229 - #5 ;
+INFO  18:07:30,229 - #4 }
+INFO  18:07:30,229 - #45 int
+INFO  18:07:30,229 - #45 main
+INFO  18:07:30,229 - #6 (
+INFO  18:07:30,229 - #45 int
+INFO  18:07:30,229 - #45 i
+INFO  18:07:30,229 - #8 ,
+INFO  18:07:30,229 - #45 j
+INFO  18:07:30,229 - #7 )
+ERROR 18:07:30,229 - 
+Sintaksna greska na liniji 10
+INFO  18:07:30,229 - #3 {
+INFO  18:07:30,229 - #45 y
+INFO  18:07:30,229 - #12 =
+ERROR 18:07:30,229 - Uspesan oporavak od greske na liniji 10 pri deklaraciji formalnog parametra funkcije
+INFO  18:07:30,229 - #44 2
+INFO  18:07:30,229 - #5 ;
+INFO  18:07:30,229 - #45 x
+INFO  18:07:30,229 - #12 =
+INFO  18:07:30,229 - #45 y
+INFO  18:07:30,229 - #11 +
+INFO  18:07:30,229 - #44 2
+INFO  18:07:30,229 - #5 ;
+INFO  18:07:30,229 - #45 y
+INFO  18:07:30,229 - #12 =
+INFO  18:07:30,229 - #45 k
+INFO  18:07:30,229 - #6 (
+INFO  18:07:30,229 - #7 )
+INFO  18:07:30,229 - #11 +
+INFO  18:07:30,229 - #44 3
+INFO  18:07:30,229 - #5 ;
+INFO  18:07:30,229 - #9 print
+INFO  18:07:30,229 - #6 (
+INFO  18:07:30,229 - #45 y
+INFO  18:07:30,229 - #7 )
+INFO  18:07:30,229 - #5 ;
+INFO  18:07:30,229 - #9 print
+INFO  18:07:30,229 - #6 (
+INFO  18:07:30,229 - #45 x
+INFO  18:07:30,229 - #7 )
+INFO  18:07:30,229 - #5 ;
+INFO  18:07:30,229 - #10 return
+INFO  18:07:30,229 - #44 0
+INFO  18:07:30,229 - #5 ;
+INFO  18:07:30,229 - #4 }
+INFO  18:07:30,229 - #4 }
+INFO  18:07:30,244 - rs.ac.bg.etf.pp1.ast.Program@433c675d
+INFO  18:07:30,244 - ====================================
+INFO  18:07:30,244 -  Print count calls = 2
+INFO  18:07:30,244 -  Deklarisanih promenljivih ima = 0
+INFO  18:07:30,244 - ====================================

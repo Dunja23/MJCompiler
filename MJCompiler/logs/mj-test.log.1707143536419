@@ -1,0 +1,62 @@
+INFO  15:27:26,415 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:27:26,460 - #2 program
+INFO  15:27:26,460 - #45 test301
+INFO  15:27:26,460 - #3 {
+INFO  15:27:26,461 - #13 void
+INFO  15:27:26,462 - #45 main
+INFO  15:27:26,463 - #6 (
+INFO  15:27:26,463 - #7 )
+INFO  15:27:26,464 - #3 {
+INFO  15:27:26,465 - #9 print
+INFO  15:27:26,466 - #6 (
+INFO  15:27:26,466 - #44 1
+INFO  15:27:26,466 - #7 )
+INFO  15:27:26,468 - #5 ;
+INFO  15:27:26,468 - #4 }
+INFO  15:27:26,468 - #4 }
+INFO  15:27:26,479 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NoNameSpace(
+  ) [NoNameSpace]
+  NoDeclList(
+  ) [NoDeclList]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDecl(
+      MethodVoid(
+      ) [MethodVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoPars(
+      ) [NoPars]
+      NoVarDeclarationList(
+      ) [NoVarDeclarationList]
+      MethodStmtList(
+        NoMethodStmtList(
+        ) [NoMethodStmtList]
+        MatchedStmt(
+          PrintStmt(
+            ExprNoMinus(
+              Term(
+                FactNum(
+                 1
+                ) [FactNum]
+                NoMoreFact(
+                ) [NoMoreFact]
+              ) [Term]
+              NoMoreTerm(
+              ) [NoMoreTerm]
+            ) [ExprNoMinus]
+            NoPrintParam(
+            ) [NoPrintParam]
+          ) [PrintStmt]
+        ) [MatchedStmt]
+      ) [MethodStmtList]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  15:27:26,491 - Parsiranje uspesno završeno!

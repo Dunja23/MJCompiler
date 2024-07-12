@@ -1,0 +1,98 @@
+INFO  02:12:37,954 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  02:12:38,024 - #2 program
+INFO  02:12:38,024 - #45 MJProgram
+INFO  02:12:38,025 - #45 int
+INFO  02:12:38,027 - #45 x
+INFO  02:12:38,028 - #5 ;
+INFO  02:12:38,029 - #45 int
+INFO  02:12:38,030 - #45 y
+INFO  02:12:38,030 - #5 ;
+INFO  02:12:38,030 - #3 {
+INFO  02:12:38,030 - #45 int
+INFO  02:12:38,031 - #45 k
+INFO  02:12:38,031 - #6 (
+INFO  02:12:38,031 - #7 )
+INFO  02:12:38,032 - #45 int
+INFO  02:12:38,033 - #45 c
+INFO  02:12:38,033 - #5 ;
+INFO  02:12:38,033 - #3 {
+INFO  02:12:38,033 - #47 if
+INFO  02:12:38,034 - #6 (
+INFO  02:12:38,034 - #45 i
+INFO  02:12:38,034 - #32 <
+INFO  02:12:38,042 - #44 0
+INFO  02:12:38,043 - #34 &&
+INFO  02:12:38,044 - #45 i
+INFO  02:12:38,044 - #28 ==
+INFO  02:12:38,044 - #44 2
+INFO  02:12:38,045 - #7 )
+INFO  02:12:38,047 - #3 {
+INFO  02:12:38,047 - #45 c
+INFO  02:12:38,048 - #12 =
+INFO  02:12:38,048 - #44 0
+INFO  02:12:38,048 - #5 ;
+INFO  02:12:38,049 - #10 return
+INFO  02:12:38,049 - #45 c
+INFO  02:12:38,049 - #11 +
+INFO  02:12:38,049 - #44 2
+INFO  02:12:38,051 - #5 ;
+INFO  02:12:38,051 - #4 }
+INFO  02:12:38,051 - #4 }
+INFO  02:12:38,051 - #45 int
+INFO  02:12:38,052 - #45 main
+INFO  02:12:38,053 - #6 (
+INFO  02:12:38,053 - #7 )
+INFO  02:12:38,053 - #3 {
+INFO  02:12:38,053 - #45 y
+INFO  02:12:38,053 - #12 =
+INFO  02:12:38,053 - #44 2
+INFO  02:12:38,053 - #5 ;
+INFO  02:12:38,053 - #45 x
+INFO  02:12:38,053 - #12 =
+INFO  02:12:38,053 - #45 y
+INFO  02:12:38,053 - #11 +
+INFO  02:12:38,054 - #44 2
+INFO  02:12:38,054 - #5 ;
+INFO  02:12:38,054 - #45 y
+INFO  02:12:38,054 - #12 =
+INFO  02:12:38,054 - #45 k
+INFO  02:12:38,054 - #6 (
+INFO  02:12:38,055 - #7 )
+INFO  02:12:38,055 - #11 +
+INFO  02:12:38,056 - #44 3
+INFO  02:12:38,056 - #5 ;
+INFO  02:12:38,056 - #9 print
+INFO  02:12:38,056 - #6 (
+INFO  02:12:38,056 - #45 y
+INFO  02:12:38,056 - #7 )
+INFO  02:12:38,057 - #5 ;
+INFO  02:12:38,057 - #9 print
+INFO  02:12:38,057 - #6 (
+INFO  02:12:38,057 - #45 x
+INFO  02:12:38,057 - #7 )
+INFO  02:12:38,058 - #5 ;
+INFO  02:12:38,058 - #10 return
+INFO  02:12:38,058 - #44 0
+INFO  02:12:38,058 - #5 ;
+INFO  02:12:38,058 - #4 }
+INFO  02:12:38,058 - #4 }
+INFO  02:12:38,072 - rs.ac.bg.etf.pp1.ast.Program@2e817b38
+INFO  02:12:38,072 - ====================================
+INFO  02:12:38,074 - Deklarisana promenljiva TypeNoNameSp(
+  TypeName(
+   int
+  ) [TypeName]
+) [TypeNoNameSp] na liniji 2
+INFO  02:12:38,075 - Deklarisana promenljiva TypeNoNameSp(
+  TypeName(
+   int
+  ) [TypeName]
+) [TypeNoNameSp] na liniji 2
+INFO  02:12:38,075 - Deklarisana promenljiva TypeNoNameSp(
+  TypeName(
+   int
+  ) [TypeName]
+) [TypeNoNameSp] na liniji 4
+INFO  02:12:38,075 -  Print count calls = 2
+INFO  02:12:38,075 -  Deklarisanih promenljivih ima = 3
+INFO  02:12:38,075 - ====================================

@@ -1,0 +1,18 @@
+INFO  15:30:49,953 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:30:50,022 - #2 program
+INFO  15:30:50,023 - #45 Test1
+INFO  15:30:50,023 - #45 int
+INFO  15:30:50,026 - #45 x
+INFO  15:30:50,028 - #45 Greska
+ERROR 15:30:50,028 - 
+Sintaksna greska na liniji 3
+INFO  15:30:50,028 - #5 ;
+INFO  15:30:50,028 - #16 const
+INFO  15:30:50,028 - #45 int
+INFO  15:30:50,035 - #45 x
+ERROR 15:30:50,035 - Uspesan oporavak od greske na liniji 3 pri definisanju promenjive
+INFO  15:30:50,039 - #12 =
+INFO  15:30:50,039 - #5 ;
+ERROR 15:30:50,039 - 
+Sintaksna greska na liniji 5
+ERROR 15:30:50,039 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 5

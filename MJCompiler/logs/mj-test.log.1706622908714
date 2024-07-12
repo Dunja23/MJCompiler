@@ -1,0 +1,87 @@
+INFO  14:54:33,400 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:54:33,472 - #2 program
+INFO  14:54:33,472 - #45 MJProgram
+INFO  14:54:33,473 - #45 joy
+INFO  14:54:33,475 - #45 x
+INFO  14:54:33,478 - #5 ;
+INFO  14:54:33,480 - #45 int
+INFO  14:54:33,482 - #45 y
+INFO  14:54:33,483 - #5 ;
+INFO  14:54:33,483 - #3 {
+INFO  14:54:33,483 - #45 int
+INFO  14:54:33,484 - #45 k
+INFO  14:54:33,485 - #6 (
+INFO  14:54:33,485 - #7 )
+INFO  14:54:33,486 - #45 int
+INFO  14:54:33,488 - #45 c
+INFO  14:54:33,488 - #5 ;
+INFO  14:54:33,489 - #3 {
+INFO  14:54:33,489 - #47 if
+INFO  14:54:33,490 - #6 (
+INFO  14:54:33,491 - #45 i
+INFO  14:54:33,491 - #32 <
+INFO  14:54:33,507 - #44 0
+INFO  14:54:33,509 - #34 &&
+INFO  14:54:33,510 - #45 i
+INFO  14:54:33,510 - #28 ==
+INFO  14:54:33,510 - #44 2
+INFO  14:54:33,511 - #7 )
+INFO  14:54:33,513 - #3 {
+INFO  14:54:33,514 - #45 c
+INFO  14:54:33,514 - #12 =
+INFO  14:54:33,515 - #44 0
+INFO  14:54:33,515 - #5 ;
+INFO  14:54:33,516 - #10 return
+INFO  14:54:33,516 - #45 c
+INFO  14:54:33,516 - #11 +
+INFO  14:54:33,517 - #44 2
+INFO  14:54:33,518 - #5 ;
+INFO  14:54:33,519 - #4 }
+INFO  14:54:33,519 - #4 }
+INFO  14:54:33,519 - #45 int
+INFO  14:54:33,521 - #45 main
+INFO  14:54:33,521 - #6 (
+INFO  14:54:33,521 - #7 )
+INFO  14:54:33,521 - #3 {
+INFO  14:54:33,523 - #45 y
+INFO  14:54:33,523 - #12 =
+INFO  14:54:33,523 - #44 2
+INFO  14:54:33,523 - #5 ;
+INFO  14:54:33,523 - #45 x
+INFO  14:54:33,524 - #12 =
+INFO  14:54:33,524 - #45 y
+INFO  14:54:33,524 - #11 +
+INFO  14:54:33,525 - #44 2
+INFO  14:54:33,525 - #5 ;
+INFO  14:54:33,525 - #45 y
+INFO  14:54:33,526 - #12 =
+INFO  14:54:33,526 - #45 k
+INFO  14:54:33,526 - #6 (
+INFO  14:54:33,526 - #7 )
+INFO  14:54:33,528 - #11 +
+INFO  14:54:33,528 - #44 3
+INFO  14:54:33,528 - #5 ;
+INFO  14:54:33,529 - #9 print
+INFO  14:54:33,529 - #6 (
+INFO  14:54:33,529 - #45 y
+INFO  14:54:33,529 - #7 )
+INFO  14:54:33,530 - #5 ;
+INFO  14:54:33,531 - #9 print
+INFO  14:54:33,534 - #6 (
+INFO  14:54:33,535 - #45 x
+INFO  14:54:33,535 - #7 )
+INFO  14:54:33,535 - #5 ;
+INFO  14:54:33,535 - #10 return
+INFO  14:54:33,535 - #44 0
+INFO  14:54:33,535 - #5 ;
+INFO  14:54:33,535 - #4 }
+INFO  14:54:33,535 - #4 }
+INFO  14:54:33,552 - rs.ac.bg.etf.pp1.ast.Program@2e817b38
+INFO  14:54:33,553 - ====================================
+ERROR 14:54:33,557 - Nije pronadjen tip joy u tabeli simbola! 
+INFO  14:54:33,557 - Deklarisana promenljiva joy na liniji 2
+INFO  14:54:33,557 - Deklarisana promenljiva int na liniji 2
+INFO  14:54:33,558 - Deklarisana promenljiva int na liniji 4
+INFO  14:54:33,558 -  Print count calls = 2
+INFO  14:54:33,558 -  Deklarisanih promenljivih ima = 3
+INFO  14:54:33,558 - ====================================

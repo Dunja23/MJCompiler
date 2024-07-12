@@ -1,0 +1,73 @@
+INFO  16:05:03,848 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:05:03,920 - #2 program
+INFO  16:05:03,921 - #45 MJProgram
+INFO  16:05:03,921 - #45 int
+INFO  16:05:03,923 - #45 x
+INFO  16:05:03,923 - #45 int
+ERROR 16:05:03,923 - 
+Sintaksna greska na liniji 2
+INFO  16:05:03,923 - #45 y
+INFO  16:05:03,924 - #5 ;
+INFO  16:05:03,924 - #3 {
+INFO  16:05:03,928 - #45 int
+INFO  16:05:03,928 - #45 k
+ERROR 16:05:03,929 - Uspesan oporavak od greske na liniji 2 pri definisanju promenjive
+INFO  16:05:03,932 - #6 (
+INFO  16:05:03,932 - #7 )
+INFO  16:05:03,933 - #45 int
+INFO  16:05:03,934 - #45 c
+INFO  16:05:03,934 - #5 ;
+INFO  16:05:03,935 - #3 {
+INFO  16:05:03,949 - #45 c
+INFO  16:05:03,950 - #12 =
+INFO  16:05:03,951 - #44 1
+INFO  16:05:03,952 - #5 ;
+INFO  16:05:03,955 - #10 return
+INFO  16:05:03,956 - #45 c
+INFO  16:05:03,956 - #11 +
+INFO  16:05:03,958 - #44 2
+INFO  16:05:03,960 - #5 ;
+INFO  16:05:03,960 - #4 }
+INFO  16:05:03,960 - #45 int
+INFO  16:05:03,962 - #45 main
+INFO  16:05:03,962 - #6 (
+INFO  16:05:03,962 - #7 )
+INFO  16:05:03,962 - #3 {
+INFO  16:05:03,962 - #45 y
+INFO  16:05:03,962 - #12 =
+INFO  16:05:03,962 - #44 2
+INFO  16:05:03,962 - #5 ;
+INFO  16:05:03,962 - #45 x
+INFO  16:05:03,963 - #12 =
+INFO  16:05:03,963 - #45 y
+INFO  16:05:03,963 - #11 +
+INFO  16:05:03,963 - #44 2
+INFO  16:05:03,963 - #5 ;
+INFO  16:05:03,963 - #45 y
+INFO  16:05:03,963 - #12 =
+INFO  16:05:03,963 - #45 k
+INFO  16:05:03,963 - #6 (
+INFO  16:05:03,963 - #7 )
+INFO  16:05:03,965 - #11 +
+INFO  16:05:03,965 - #44 3
+INFO  16:05:03,966 - #5 ;
+INFO  16:05:03,966 - #9 print
+INFO  16:05:03,966 - #6 (
+INFO  16:05:03,966 - #45 y
+INFO  16:05:03,966 - #7 )
+INFO  16:05:03,967 - #5 ;
+INFO  16:05:03,967 - #9 print
+INFO  16:05:03,968 - #6 (
+INFO  16:05:03,968 - #45 x
+INFO  16:05:03,968 - #7 )
+INFO  16:05:03,968 - #5 ;
+INFO  16:05:03,968 - #10 return
+INFO  16:05:03,968 - #44 0
+INFO  16:05:03,968 - #5 ;
+INFO  16:05:03,969 - #4 }
+INFO  16:05:03,969 - #4 }
+INFO  16:05:03,980 - rs.ac.bg.etf.pp1.ast.Program@433c675d
+INFO  16:05:03,983 - ====================================
+INFO  16:05:03,987 -  Print count calls = 2
+INFO  16:05:03,987 -  Deklarisanih promenljivih ima = 0
+INFO  16:05:03,987 - ====================================

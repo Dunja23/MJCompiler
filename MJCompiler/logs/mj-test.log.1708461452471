@@ -1,0 +1,477 @@
+INFO  21:34:55,081 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:34:55,142 - #2 program
+INFO  21:34:55,143 - #46 test301
+INFO  21:34:55,143 - #23 namespace
+INFO  21:34:55,145 - #46 Konstante
+INFO  21:34:55,145 - #3 {
+INFO  21:34:55,146 - #3 {
+INFO  21:34:55,147 - #4 }
+INFO  21:34:55,148 - #4 }
+INFO  21:34:55,148 - #46 int
+INFO  21:34:55,150 - #46 a
+INFO  21:34:55,152 - #5 ;
+INFO  21:34:55,154 - #3 {
+INFO  21:34:55,155 - #13 void
+INFO  21:34:55,155 - #46 main
+INFO  21:34:55,156 - #6 (
+INFO  21:34:55,157 - #7 )
+INFO  21:34:55,158 - #46 char
+INFO  21:34:55,159 - #46 z
+INFO  21:34:55,159 - #5 ;
+INFO  21:34:55,160 - #46 char
+INFO  21:34:55,173 - #46 b
+INFO  21:34:55,173 - #41 [
+INFO  21:34:55,173 - #42 ]
+INFO  21:34:55,173 - #5 ;
+INFO  21:34:55,174 - #3 {
+INFO  21:34:55,174 - #46 a
+INFO  21:34:55,175 - #12 =
+INFO  21:34:55,176 - #24 -
+INFO  21:34:55,178 - #6 (
+INFO  21:34:55,178 - #45 9
+INFO  21:34:55,178 - #24 -
+INFO  21:34:55,180 - #45 3
+INFO  21:34:55,181 - #7 )
+INFO  21:34:55,182 - #5 ;
+INFO  21:34:55,182 - #46 a
+INFO  21:34:55,183 - #37 --
+INFO  21:34:55,183 - #5 ;
+INFO  21:34:55,183 - #9 print
+INFO  21:34:55,183 - #6 (
+INFO  21:34:55,184 - #47 s
+INFO  21:34:55,184 - #7 )
+INFO  21:34:55,185 - #5 ;
+INFO  21:34:55,185 - #9 print
+INFO  21:34:55,185 - #6 (
+INFO  21:34:55,185 - #45 15
+INFO  21:34:55,185 - #7 )
+INFO  21:34:55,185 - #5 ;
+INFO  21:34:55,186 - #9 print
+INFO  21:34:55,186 - #6 (
+INFO  21:34:55,186 - #39 eol
+INFO  21:34:55,186 - #7 )
+INFO  21:34:55,187 - #5 ;
+INFO  21:34:55,187 - #9 print
+INFO  21:34:55,187 - #6 (
+INFO  21:34:55,187 - #45 6
+INFO  21:34:55,187 - #7 )
+INFO  21:34:55,187 - #5 ;
+INFO  21:34:55,187 - #9 print
+INFO  21:34:55,188 - #6 (
+INFO  21:34:55,188 - #39 eol
+INFO  21:34:55,188 - #7 )
+INFO  21:34:55,188 - #5 ;
+INFO  21:34:55,188 - #9 print
+INFO  21:34:55,188 - #6 (
+INFO  21:34:55,188 - #46 a
+INFO  21:34:55,188 - #7 )
+INFO  21:34:55,188 - #5 ;
+INFO  21:34:55,189 - #46 b
+INFO  21:34:55,189 - #12 =
+INFO  21:34:55,189 - #17 new
+INFO  21:34:55,189 - #46 int
+INFO  21:34:55,189 - #41 [
+INFO  21:34:55,189 - #45 3
+INFO  21:34:55,189 - #42 ]
+INFO  21:34:55,189 - #5 ;
+INFO  21:34:55,190 - #46 b
+INFO  21:34:55,190 - #41 [
+INFO  21:34:55,190 - #45 2
+INFO  21:34:55,190 - #42 ]
+INFO  21:34:55,190 - #12 =
+INFO  21:34:55,190 - #47 s
+INFO  21:34:55,191 - #5 ;
+INFO  21:34:55,191 - #9 print
+INFO  21:34:55,191 - #6 (
+INFO  21:34:55,191 - #46 b
+INFO  21:34:55,191 - #41 [
+INFO  21:34:55,191 - #45 2
+INFO  21:34:55,191 - #42 ]
+INFO  21:34:55,191 - #7 )
+INFO  21:34:55,191 - #5 ;
+INFO  21:34:55,191 - #4 }
+INFO  21:34:55,191 - #4 }
+INFO  21:34:55,209 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NamespaceLists(
+    NoNameSpace(
+    ) [NoNameSpace]
+    Namespace(
+      NamespName(
+       Konstante
+      ) [NamespName]
+      NoDeclList(
+      ) [NoDeclList]
+      NoMethodDeclarations(
+      ) [NoMethodDeclarations]
+    ) [Namespace]
+  ) [NamespaceLists]
+  DeclarationList(
+    NoDeclList(
+    ) [NoDeclList]
+    DeclVar(
+      VarDecl(
+        Type(
+         int
+          TypeNamespNameDerived2(
+          ) [TypeNamespNameDerived2]
+        ) [Type]
+        SingleVarDecl(
+          VarName(
+           a
+          ) [VarName]
+          NoVariableArray(
+          ) [NoVariableArray]
+        ) [SingleVarDecl]
+      ) [VarDecl]
+    ) [DeclVar]
+  ) [DeclarationList]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDecl(
+      MethodVoid(
+      ) [MethodVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoPars(
+      ) [NoPars]
+      VarDeclarationList(
+        VarDeclarationList(
+          NoVarDeclarationList(
+          ) [NoVarDeclarationList]
+          VarDecl(
+            Type(
+             char
+              TypeNamespNameDerived2(
+              ) [TypeNamespNameDerived2]
+            ) [Type]
+            SingleVarDecl(
+              VarName(
+               z
+              ) [VarName]
+              NoVariableArray(
+              ) [NoVariableArray]
+            ) [SingleVarDecl]
+          ) [VarDecl]
+        ) [VarDeclarationList]
+        VarDecl(
+          Type(
+           char
+            TypeNamespNameDerived2(
+            ) [TypeNamespNameDerived2]
+          ) [Type]
+          SingleVarDecl(
+            VarName(
+             b
+            ) [VarName]
+            VariableArray(
+            ) [VariableArray]
+          ) [SingleVarDecl]
+        ) [VarDecl]
+      ) [VarDeclarationList]
+      MethodStmtList(
+        MethodStmtList(
+          MethodStmtList(
+            MethodStmtList(
+              MethodStmtList(
+                MethodStmtList(
+                  MethodStmtList(
+                    MethodStmtList(
+                      MethodStmtList(
+                        MethodStmtList(
+                          MethodStmtList(
+                            NoMethodStmtList(
+                            ) [NoMethodStmtList]
+                            MatchedStmt(
+                              DesignatorStmt(
+                                DesignatorAssign(
+                                  DesignatorNoNameSpace(
+                                    DesignatorName(
+                                     a
+                                    ) [DesignatorName]
+                                  ) [DesignatorNoNameSpace]
+                                  Assignop(
+                                  ) [Assignop]
+                                  ExprMinus(
+                                    Term(
+                                      FactExpr(
+                                        ExprNoMinus(
+                                          Term(
+                                            FactNum(
+                                             9
+                                            ) [FactNum]
+                                            NoMoreFact(
+                                            ) [NoMoreFact]
+                                          ) [Term]
+                                          AddExpr(
+                                            NoMoreTerm(
+                                            ) [NoMoreTerm]
+                                            AddMinus(
+                                            ) [AddMinus]
+                                            Term(
+                                              FactNum(
+                                               3
+                                              ) [FactNum]
+                                              NoMoreFact(
+                                              ) [NoMoreFact]
+                                            ) [Term]
+                                          ) [AddExpr]
+                                        ) [ExprNoMinus]
+                                      ) [FactExpr]
+                                      NoMoreFact(
+                                      ) [NoMoreFact]
+                                    ) [Term]
+                                    NoMoreTerm(
+                                    ) [NoMoreTerm]
+                                  ) [ExprMinus]
+                                ) [DesignatorAssign]
+                              ) [DesignatorStmt]
+                            ) [MatchedStmt]
+                          ) [MethodStmtList]
+                          MatchedStmt(
+                            DesignatorStmt(
+                              DesignatorDecrement(
+                                DesignatorNoNameSpace(
+                                  DesignatorName(
+                                   a
+                                  ) [DesignatorName]
+                                ) [DesignatorNoNameSpace]
+                              ) [DesignatorDecrement]
+                            ) [DesignatorStmt]
+                          ) [MatchedStmt]
+                        ) [MethodStmtList]
+                        MatchedStmt(
+                          PrintStmt(
+                            ExprNoMinus(
+                              Term(
+                                FactChar(
+                                 s
+                                ) [FactChar]
+                                NoMoreFact(
+                                ) [NoMoreFact]
+                              ) [Term]
+                              NoMoreTerm(
+                              ) [NoMoreTerm]
+                            ) [ExprNoMinus]
+                            NoPrintParam(
+                            ) [NoPrintParam]
+                          ) [PrintStmt]
+                        ) [MatchedStmt]
+                      ) [MethodStmtList]
+                      MatchedStmt(
+                        PrintStmt(
+                          ExprNoMinus(
+                            Term(
+                              FactNum(
+                               15
+                              ) [FactNum]
+                              NoMoreFact(
+                              ) [NoMoreFact]
+                            ) [Term]
+                            NoMoreTerm(
+                            ) [NoMoreTerm]
+                          ) [ExprNoMinus]
+                          NoPrintParam(
+                          ) [NoPrintParam]
+                        ) [PrintStmt]
+                      ) [MatchedStmt]
+                    ) [MethodStmtList]
+                    MatchedStmt(
+                      PrintStmt(
+                        ExprNoMinus(
+                          Term(
+                            FactEol(
+                            ) [FactEol]
+                            NoMoreFact(
+                            ) [NoMoreFact]
+                          ) [Term]
+                          NoMoreTerm(
+                          ) [NoMoreTerm]
+                        ) [ExprNoMinus]
+                        NoPrintParam(
+                        ) [NoPrintParam]
+                      ) [PrintStmt]
+                    ) [MatchedStmt]
+                  ) [MethodStmtList]
+                  MatchedStmt(
+                    PrintStmt(
+                      ExprNoMinus(
+                        Term(
+                          FactNum(
+                           6
+                          ) [FactNum]
+                          NoMoreFact(
+                          ) [NoMoreFact]
+                        ) [Term]
+                        NoMoreTerm(
+                        ) [NoMoreTerm]
+                      ) [ExprNoMinus]
+                      NoPrintParam(
+                      ) [NoPrintParam]
+                    ) [PrintStmt]
+                  ) [MatchedStmt]
+                ) [MethodStmtList]
+                MatchedStmt(
+                  PrintStmt(
+                    ExprNoMinus(
+                      Term(
+                        FactEol(
+                        ) [FactEol]
+                        NoMoreFact(
+                        ) [NoMoreFact]
+                      ) [Term]
+                      NoMoreTerm(
+                      ) [NoMoreTerm]
+                    ) [ExprNoMinus]
+                    NoPrintParam(
+                    ) [NoPrintParam]
+                  ) [PrintStmt]
+                ) [MatchedStmt]
+              ) [MethodStmtList]
+              MatchedStmt(
+                PrintStmt(
+                  ExprNoMinus(
+                    Term(
+                      FactDesign(
+                        DesignatorNoNameSpace(
+                          DesignatorName(
+                           a
+                          ) [DesignatorName]
+                        ) [DesignatorNoNameSpace]
+                      ) [FactDesign]
+                      NoMoreFact(
+                      ) [NoMoreFact]
+                    ) [Term]
+                    NoMoreTerm(
+                    ) [NoMoreTerm]
+                  ) [ExprNoMinus]
+                  NoPrintParam(
+                  ) [NoPrintParam]
+                ) [PrintStmt]
+              ) [MatchedStmt]
+            ) [MethodStmtList]
+            MatchedStmt(
+              DesignatorStmt(
+                DesignatorAssign(
+                  DesignatorNoNameSpace(
+                    DesignatorName(
+                     b
+                    ) [DesignatorName]
+                  ) [DesignatorNoNameSpace]
+                  Assignop(
+                  ) [Assignop]
+                  ExprNoMinus(
+                    Term(
+                      FactNTE(
+                        Type(
+                         int
+                          TypeNamespNameDerived2(
+                          ) [TypeNamespNameDerived2]
+                        ) [Type]
+                        ExprNoMinus(
+                          Term(
+                            FactNum(
+                             3
+                            ) [FactNum]
+                            NoMoreFact(
+                            ) [NoMoreFact]
+                          ) [Term]
+                          NoMoreTerm(
+                          ) [NoMoreTerm]
+                        ) [ExprNoMinus]
+                      ) [FactNTE]
+                      NoMoreFact(
+                      ) [NoMoreFact]
+                    ) [Term]
+                    NoMoreTerm(
+                    ) [NoMoreTerm]
+                  ) [ExprNoMinus]
+                ) [DesignatorAssign]
+              ) [DesignatorStmt]
+            ) [MatchedStmt]
+          ) [MethodStmtList]
+          MatchedStmt(
+            DesignatorStmt(
+              DesignatorAssign(
+                DesignatorList(
+                  DesignatorRestArray(
+                    DesignatorNoNameSpace(
+                      DesignatorName(
+                       b
+                      ) [DesignatorName]
+                    ) [DesignatorNoNameSpace]
+                    ExprNoMinus(
+                      Term(
+                        FactNum(
+                         2
+                        ) [FactNum]
+                        NoMoreFact(
+                        ) [NoMoreFact]
+                      ) [Term]
+                      NoMoreTerm(
+                      ) [NoMoreTerm]
+                    ) [ExprNoMinus]
+                  ) [DesignatorRestArray]
+                ) [DesignatorList]
+                Assignop(
+                ) [Assignop]
+                ExprNoMinus(
+                  Term(
+                    FactChar(
+                     s
+                    ) [FactChar]
+                    NoMoreFact(
+                    ) [NoMoreFact]
+                  ) [Term]
+                  NoMoreTerm(
+                  ) [NoMoreTerm]
+                ) [ExprNoMinus]
+              ) [DesignatorAssign]
+            ) [DesignatorStmt]
+          ) [MatchedStmt]
+        ) [MethodStmtList]
+        MatchedStmt(
+          PrintStmt(
+            ExprNoMinus(
+              Term(
+                FactDesign(
+                  DesignatorList(
+                    DesignatorRestArray(
+                      DesignatorNoNameSpace(
+                        DesignatorName(
+                         b
+                        ) [DesignatorName]
+                      ) [DesignatorNoNameSpace]
+                      ExprNoMinus(
+                        Term(
+                          FactNum(
+                           2
+                          ) [FactNum]
+                          NoMoreFact(
+                          ) [NoMoreFact]
+                        ) [Term]
+                        NoMoreTerm(
+                        ) [NoMoreTerm]
+                      ) [ExprNoMinus]
+                    ) [DesignatorRestArray]
+                  ) [DesignatorList]
+                ) [FactDesign]
+                NoMoreFact(
+                ) [NoMoreFact]
+              ) [Term]
+              NoMoreTerm(
+              ) [NoMoreTerm]
+            ) [ExprNoMinus]
+            NoPrintParam(
+            ) [NoPrintParam]
+          ) [PrintStmt]
+        ) [MatchedStmt]
+      ) [MethodStmtList]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  21:34:55,221 - Parsiranje uspesno završeno!

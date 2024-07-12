@@ -1,0 +1,32 @@
+INFO  18:03:04,390 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:03:04,431 - #2 program
+INFO  18:03:04,431 - #45 Test1
+INFO  18:03:04,431 - #45 int
+INFO  18:03:04,433 - #45 x
+INFO  18:03:04,435 - #5 ;
+INFO  18:03:04,437 - #45 int
+INFO  18:03:04,437 - #45 y
+INFO  18:03:04,438 - #5 ;
+INFO  18:03:04,438 - #16 const
+INFO  18:03:04,438 - #45 int
+INFO  18:03:04,438 - #45 z
+INFO  18:03:04,438 - #12 =
+INFO  18:03:04,438 - #44 1
+INFO  18:03:04,438 - #5 ;
+INFO  18:03:04,439 - #3 {
+INFO  18:03:04,440 - #13 void
+INFO  18:03:04,441 - #45 main
+INFO  18:03:04,442 - #6 (
+INFO  18:03:04,442 - #7 )
+INFO  18:03:04,443 - #3 {
+INFO  18:03:04,444 - #4 }
+INFO  18:03:04,449 - #4 }
+INFO  18:03:04,463 - rs.ac.bg.etf.pp1.ast.Program@2e817b38
+INFO  18:03:04,463 - ====================================
+INFO  18:03:04,466 - Deklarisana promenljiva x na liniji 3
+INFO  18:03:04,466 - Variable: x, Type: rs.etf.pp1.symboltable.concepts.Struct@c4437c4 na liniji 3
+INFO  18:03:04,466 - Deklarisana promenljiva y na liniji 3
+INFO  18:03:04,466 - Variable: y, Type: rs.etf.pp1.symboltable.concepts.Struct@433c675d na liniji 3
+INFO  18:03:04,466 -  Print count calls = 0
+INFO  18:03:04,466 -  Deklarisanih promenljivih ima = 2
+INFO  18:03:04,466 - ====================================

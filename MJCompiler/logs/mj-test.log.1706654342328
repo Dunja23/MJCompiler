@@ -1,0 +1,51 @@
+INFO  22:26:33,225 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:26:33,287 - #2 program
+INFO  22:26:33,287 - #45 Test1
+INFO  22:26:33,287 - #45 char
+INFO  22:26:33,290 - #45 x
+INFO  22:26:33,292 - #8 ,
+INFO  22:26:33,295 - #45 m
+INFO  22:26:33,295 - #8 ,
+INFO  22:26:33,295 - #45 n
+INFO  22:26:33,295 - #5 ;
+INFO  22:26:33,295 - #45 int
+INFO  22:26:33,297 - #45 y
+INFO  22:26:33,297 - #5 ;
+INFO  22:26:33,297 - #16 const
+INFO  22:26:33,297 - #45 int
+INFO  22:26:33,298 - #45 z
+INFO  22:26:33,298 - #12 =
+INFO  22:26:33,299 - #44 1
+INFO  22:26:33,299 - #5 ;
+INFO  22:26:33,301 - #3 {
+INFO  22:26:33,302 - #13 void
+INFO  22:26:33,303 - #45 main
+INFO  22:26:33,317 - #6 (
+INFO  22:26:33,317 - #7 )
+INFO  22:26:33,318 - #45 char
+INFO  22:26:33,319 - #45 k
+INFO  22:26:33,319 - #5 ;
+INFO  22:26:33,319 - #3 {
+INFO  22:26:33,319 - #45 x
+INFO  22:26:33,320 - #12 =
+INFO  22:26:33,321 - #46 s
+INFO  22:26:33,322 - #5 ;
+INFO  22:26:33,325 - #4 }
+INFO  22:26:33,325 - #4 }
+INFO  22:26:33,344 - Test1
+INFO  22:26:33,345 - ====================================
+INFO  22:26:33,348 - Deklarisana promenljiva x na liniji 3
+INFO  22:26:33,348 - Variable: x, Type: char na liniji 3
+INFO  22:26:33,348 - Deklarisana promenljiva m na liniji 3
+INFO  22:26:33,348 - Variable: m, Type: char na liniji 3
+INFO  22:26:33,348 - Deklarisana promenljiva n na liniji 3
+INFO  22:26:33,348 - Variable: n, Type: char na liniji 3
+INFO  22:26:33,348 - Deklarisana promenljiva y na liniji 3
+INFO  22:26:33,348 - Variable: y, Type: int na liniji 3
+INFO  22:26:33,349 - Definisana konstanta z na liniji 5
+INFO  22:26:33,349 - Variable: z, Type: int na liniji 5
+INFO  22:26:33,349 - Deklarisana promenljiva k na liniji 8
+INFO  22:26:33,349 - Variable: k, Type: char na liniji 8
+INFO  22:26:33,349 -  Print count calls = 0
+INFO  22:26:33,349 -  Deklarisanih promenljivih ima = 5
+INFO  22:26:33,349 - ====================================

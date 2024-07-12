@@ -1,0 +1,52 @@
+INFO  22:09:52,310 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:09:52,387 - #2 program
+INFO  22:09:52,387 - #45 Test1
+INFO  22:09:52,387 - #45 char
+INFO  22:09:52,389 - #45 x
+INFO  22:09:52,391 - #8 ,
+INFO  22:09:52,393 - #45 m
+INFO  22:09:52,394 - #8 ,
+INFO  22:09:52,394 - #45 n
+INFO  22:09:52,394 - #5 ;
+INFO  22:09:52,394 - #45 int
+INFO  22:09:52,395 - #45 y
+INFO  22:09:52,396 - #5 ;
+INFO  22:09:52,396 - #16 const
+INFO  22:09:52,396 - #45 int
+INFO  22:09:52,396 - #45 z
+INFO  22:09:52,396 - #12 =
+INFO  22:09:52,397 - #44 1
+INFO  22:09:52,398 - #5 ;
+INFO  22:09:52,399 - #3 {
+INFO  22:09:52,401 - #13 void
+INFO  22:09:52,402 - #45 main
+INFO  22:09:52,416 - #6 (
+INFO  22:09:52,417 - #7 )
+INFO  22:09:52,418 - #3 {
+INFO  22:09:52,419 - #45 int
+INFO  22:09:52,420 - #45 m
+ERROR 22:09:52,420 - 
+Sintaksna greska na liniji 9
+INFO  22:09:52,420 - #5 ;
+INFO  22:09:52,420 - #45 x
+INFO  22:09:52,420 - #12 =
+INFO  22:09:52,426 - #46 s
+INFO  22:09:52,426 - #5 ;
+INFO  22:09:52,426 - #4 }
+ERROR 22:09:52,426 - Uspesan oporavak od greske na liniji 9 pri konstrukciji iskaza dodele
+INFO  22:09:52,431 - #4 }
+INFO  22:09:52,451 - Test1
+INFO  22:09:52,452 - ====================================
+INFO  22:09:52,456 - Deklarisana promenljiva x na liniji 3
+INFO  22:09:52,456 - Variable: x, Type: char na liniji 3
+INFO  22:09:52,456 - Deklarisana promenljiva m na liniji 3
+INFO  22:09:52,456 - Variable: m, Type: char na liniji 3
+INFO  22:09:52,457 - Deklarisana promenljiva n na liniji 3
+INFO  22:09:52,457 - Variable: n, Type: char na liniji 3
+INFO  22:09:52,457 - Deklarisana promenljiva y na liniji 3
+INFO  22:09:52,457 - Variable: y, Type: int na liniji 3
+INFO  22:09:52,457 - Definisana konstanta z na liniji 5
+INFO  22:09:52,457 - Variable: z, Type: int na liniji 5
+INFO  22:09:52,458 -  Print count calls = 0
+INFO  22:09:52,458 -  Deklarisanih promenljivih ima = 4
+INFO  22:09:52,458 - ====================================

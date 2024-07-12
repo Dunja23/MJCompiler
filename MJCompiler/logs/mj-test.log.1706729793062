@@ -1,0 +1,59 @@
+INFO  20:17:40,937 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:17:41,002 - #2 program
+INFO  20:17:41,003 - #45 Test1
+INFO  20:17:41,003 - #45 char
+INFO  20:17:41,007 - #45 x
+INFO  20:17:41,009 - #8 ,
+INFO  20:17:41,011 - #45 m
+INFO  20:17:41,011 - #8 ,
+INFO  20:17:41,012 - #45 n
+INFO  20:17:41,012 - #5 ;
+INFO  20:17:41,012 - #45 int
+INFO  20:17:41,014 - #45 y
+INFO  20:17:41,014 - #5 ;
+INFO  20:17:41,014 - #45 bool
+INFO  20:17:41,014 - #45 tr
+INFO  20:17:41,015 - #5 ;
+INFO  20:17:41,015 - #16 const
+INFO  20:17:41,015 - #45 int
+INFO  20:17:41,015 - #45 z
+INFO  20:17:41,015 - #12 =
+INFO  20:17:41,017 - #44 1
+INFO  20:17:41,017 - #5 ;
+INFO  20:17:41,032 - #3 {
+INFO  20:17:41,033 - #45 int
+INFO  20:17:41,036 - #45 main
+INFO  20:17:41,036 - #6 (
+INFO  20:17:41,038 - #7 )
+INFO  20:17:41,039 - #45 char
+INFO  20:17:41,040 - #45 k
+INFO  20:17:41,041 - #5 ;
+INFO  20:17:41,041 - #45 bool
+INFO  20:17:41,041 - #45 flag
+INFO  20:17:41,041 - #5 ;
+INFO  20:17:41,041 - #3 {
+INFO  20:17:41,042 - #45 x
+INFO  20:17:41,043 - #12 =
+INFO  20:17:41,044 - #46 s
+INFO  20:17:41,046 - #5 ;
+INFO  20:17:41,051 - #9 print
+INFO  20:17:41,052 - #6 (
+INFO  20:17:41,052 - #45 x
+INFO  20:17:41,052 - #7 )
+INFO  20:17:41,054 - #5 ;
+INFO  20:17:41,054 - #4 }
+INFO  20:17:41,054 - #4 }
+INFO  20:17:41,088 - Test1
+INFO  20:17:41,088 - ====================================
+INFO  20:17:41,089 - Deklarisana promenljiva: x, Tip: char na liniji 3
+INFO  20:17:41,089 - Deklarisana promenljiva: m, Tip: char na liniji 3
+INFO  20:17:41,089 - Deklarisana promenljiva: n, Tip: char na liniji 3
+INFO  20:17:41,089 - Deklarisana promenljiva: y, Tip: int na liniji 3
+INFO  20:17:41,089 - Deklarisana promenljiva: tr, Tip: bool na liniji 4
+INFO  20:17:41,089 - Definisana konstanta: z, Tip: int na liniji 6
+INFO  20:17:41,089 - Obradjuje se funkcija main na liniji 9
+INFO  20:17:41,089 - Deklarisana promenljiva: k, Tip: char na liniji 9
+INFO  20:17:41,090 - Deklarisana promenljiva: flag, Tip: bool na liniji 9
+INFO  20:17:41,090 -  Print count calls = 1
+INFO  20:17:41,090 -  Deklarisanih promenljivih ima = 7
+INFO  20:17:41,090 - ====================================

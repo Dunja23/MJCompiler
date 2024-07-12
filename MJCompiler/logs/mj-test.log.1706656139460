@@ -1,0 +1,52 @@
+INFO  00:00:55,040 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:00:55,100 - #2 program
+INFO  00:00:55,100 - #45 Test1
+INFO  00:00:55,100 - #45 char
+INFO  00:00:55,102 - #45 x
+INFO  00:00:55,104 - #8 ,
+INFO  00:00:55,105 - #45 m
+INFO  00:00:55,107 - #8 ,
+INFO  00:00:55,107 - #45 n
+INFO  00:00:55,108 - #5 ;
+INFO  00:00:55,108 - #45 int
+INFO  00:00:55,110 - #45 y
+INFO  00:00:55,110 - #5 ;
+INFO  00:00:55,111 - #16 const
+INFO  00:00:55,111 - #45 int
+INFO  00:00:55,111 - #45 z
+INFO  00:00:55,111 - #12 =
+INFO  00:00:55,112 - #44 1
+INFO  00:00:55,113 - #5 ;
+INFO  00:00:55,114 - #3 {
+INFO  00:00:55,116 - #13 void
+INFO  00:00:55,117 - #45 main
+INFO  00:00:55,119 - #6 (
+INFO  00:00:55,120 - #7 )
+INFO  00:00:55,121 - #45 char
+INFO  00:00:55,123 - #45 k
+INFO  00:00:55,123 - #5 ;
+INFO  00:00:55,123 - #3 {
+INFO  00:00:55,123 - #45 x
+INFO  00:00:55,124 - #12 =
+INFO  00:00:55,125 - #46 s
+INFO  00:00:55,127 - #5 ;
+INFO  00:00:55,129 - #4 }
+INFO  00:00:55,130 - #4 }
+INFO  00:00:55,143 - Test1
+INFO  00:00:55,143 - ====================================
+INFO  00:00:55,145 - Deklarisana promenljiva x na liniji 3
+INFO  00:00:55,145 - Variable: x, Type: char na liniji 3
+INFO  00:00:55,145 - Deklarisana promenljiva m na liniji 3
+INFO  00:00:55,145 - Variable: m, Type: char na liniji 3
+INFO  00:00:55,147 - Deklarisana promenljiva n na liniji 3
+INFO  00:00:55,147 - Variable: n, Type: char na liniji 3
+INFO  00:00:55,147 - Deklarisana promenljiva y na liniji 3
+INFO  00:00:55,147 - Variable: y, Type: int na liniji 3
+INFO  00:00:55,147 - Definisana konstanta z na liniji 5
+INFO  00:00:55,147 - Variable: z, Type: int na liniji 5
+INFO  00:00:55,147 - Obradjuje se funkcija main na liniji 8
+INFO  00:00:55,147 - Deklarisana promenljiva k na liniji 8
+INFO  00:00:55,147 - Variable: k, Type: char na liniji 8
+INFO  00:00:55,148 -  Print count calls = 0
+INFO  00:00:55,148 -  Deklarisanih promenljivih ima = 5
+INFO  00:00:55,148 - ====================================

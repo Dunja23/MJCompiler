@@ -1,0 +1,60 @@
+INFO  20:11:48,100 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:11:48,185 - #2 program
+INFO  20:11:48,185 - #45 Test1
+INFO  20:11:48,185 - #45 char
+INFO  20:11:48,188 - #45 x
+INFO  20:11:48,191 - #8 ,
+INFO  20:11:48,194 - #45 m
+INFO  20:11:48,194 - #8 ,
+INFO  20:11:48,194 - #45 n
+INFO  20:11:48,194 - #5 ;
+INFO  20:11:48,194 - #45 int
+INFO  20:11:48,196 - #45 y
+INFO  20:11:48,196 - #5 ;
+INFO  20:11:48,196 - #45 bool
+INFO  20:11:48,197 - #45 tr
+INFO  20:11:48,197 - #5 ;
+INFO  20:11:48,197 - #16 const
+INFO  20:11:48,197 - #45 int
+INFO  20:11:48,197 - #45 z
+INFO  20:11:48,197 - #12 =
+INFO  20:11:48,199 - #44 1
+INFO  20:11:48,199 - #5 ;
+INFO  20:11:48,214 - #3 {
+INFO  20:11:48,215 - #13 void
+INFO  20:11:48,217 - #45 main
+INFO  20:11:48,219 - #6 (
+INFO  20:11:48,221 - #7 )
+INFO  20:11:48,223 - #45 char
+INFO  20:11:48,225 - #45 k
+INFO  20:11:48,225 - #8 ,
+INFO  20:11:48,225 - #45 bool
+INFO  20:11:48,225 - #45 flag
+ERROR 20:11:48,225 - 
+Sintaksna greska na liniji 9
+INFO  20:11:48,225 - #5 ;
+INFO  20:11:48,225 - #3 {
+INFO  20:11:48,225 - #45 x
+INFO  20:11:48,231 - #12 =
+ERROR 20:11:48,231 - Uspesan oporavak od greske na liniji 9 pri definisanju promenjive
+INFO  20:11:48,236 - #46 s
+INFO  20:11:48,238 - #5 ;
+INFO  20:11:48,241 - #9 print
+INFO  20:11:48,242 - #6 (
+INFO  20:11:48,242 - #45 x
+INFO  20:11:48,242 - #7 )
+INFO  20:11:48,244 - #5 ;
+INFO  20:11:48,244 - #4 }
+INFO  20:11:48,244 - #4 }
+INFO  20:11:48,268 - Test1
+INFO  20:11:48,268 - ====================================
+INFO  20:11:48,268 - Deklarisana promenljiva: x, Tip: char na liniji 3
+INFO  20:11:48,268 - Deklarisana promenljiva: m, Tip: char na liniji 3
+INFO  20:11:48,269 - Deklarisana promenljiva: n, Tip: char na liniji 3
+INFO  20:11:48,269 - Deklarisana promenljiva: y, Tip: int na liniji 3
+INFO  20:11:48,269 - Deklarisana promenljiva: tr, Tip: bool na liniji 4
+INFO  20:11:48,269 - Definisana konstanta: z, Tip: int na liniji 6
+INFO  20:11:48,269 - Obradjuje se funkcija main na liniji 9
+INFO  20:11:48,269 -  Print count calls = 1
+INFO  20:11:48,270 -  Deklarisanih promenljivih ima = 5
+INFO  20:11:48,270 - ====================================

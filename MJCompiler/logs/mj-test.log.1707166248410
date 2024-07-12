@@ -1,0 +1,221 @@
+INFO  21:49:56,291 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:49:56,350 - #2 program
+INFO  21:49:56,350 - #46 test301
+INFO  21:49:56,350 - #23 namespace
+INFO  21:49:56,352 - #46 Konstante
+INFO  21:49:56,352 - #3 {
+INFO  21:49:56,353 - #3 {
+INFO  21:49:56,354 - #4 }
+INFO  21:49:56,356 - #4 }
+INFO  21:49:56,356 - #46 int
+INFO  21:49:56,358 - #46 a
+INFO  21:49:56,360 - #5 ;
+INFO  21:49:56,364 - #3 {
+INFO  21:49:56,366 - #13 void
+INFO  21:49:56,366 - #46 main
+INFO  21:49:56,367 - #6 (
+INFO  21:49:56,368 - #7 )
+INFO  21:49:56,370 - #46 int
+INFO  21:49:56,371 - #46 z
+INFO  21:49:56,371 - #5 ;
+INFO  21:49:56,371 - #3 {
+INFO  21:49:56,384 - #46 z
+INFO  21:49:56,386 - #12 =
+INFO  21:49:56,389 - #45 3
+INFO  21:49:56,390 - #5 ;
+INFO  21:49:56,394 - #9 print
+INFO  21:49:56,394 - #6 (
+INFO  21:49:56,394 - #45 15
+INFO  21:49:56,394 - #7 )
+INFO  21:49:56,395 - #5 ;
+INFO  21:49:56,395 - #9 print
+INFO  21:49:56,396 - #6 (
+INFO  21:49:56,396 - #39 eol
+INFO  21:49:56,396 - #7 )
+INFO  21:49:56,397 - #5 ;
+INFO  21:49:56,397 - #9 print
+INFO  21:49:56,397 - #6 (
+INFO  21:49:56,397 - #39 eol
+INFO  21:49:56,397 - #7 )
+INFO  21:49:56,397 - #5 ;
+INFO  21:49:56,397 - #9 print
+INFO  21:49:56,397 - #6 (
+INFO  21:49:56,397 - #45 6
+INFO  21:49:56,397 - #7 )
+INFO  21:49:56,397 - #5 ;
+INFO  21:49:56,397 - #4 }
+INFO  21:49:56,397 - #4 }
+INFO  21:49:56,415 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NamespaceLists(
+    NoNameSpace(
+    ) [NoNameSpace]
+    Namespace(
+      NamespName(
+       Konstante
+      ) [NamespName]
+      NoDeclList(
+      ) [NoDeclList]
+      NoMethodDeclarations(
+      ) [NoMethodDeclarations]
+    ) [Namespace]
+  ) [NamespaceLists]
+  DeclarationList(
+    NoDeclList(
+    ) [NoDeclList]
+    DeclVar(
+      VarDecl(
+        Type(
+         int
+          TypeNamespNameDerived2(
+          ) [TypeNamespNameDerived2]
+        ) [Type]
+        SingleVarDecl(
+          VarName(
+           a
+          ) [VarName]
+          NoVariableArray(
+          ) [NoVariableArray]
+        ) [SingleVarDecl]
+      ) [VarDecl]
+    ) [DeclVar]
+  ) [DeclarationList]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDecl(
+      MethodVoid(
+      ) [MethodVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoPars(
+      ) [NoPars]
+      VarDeclarationList(
+        NoVarDeclarationList(
+        ) [NoVarDeclarationList]
+        VarDecl(
+          Type(
+           int
+            TypeNamespNameDerived2(
+            ) [TypeNamespNameDerived2]
+          ) [Type]
+          SingleVarDecl(
+            VarName(
+             z
+            ) [VarName]
+            NoVariableArray(
+            ) [NoVariableArray]
+          ) [SingleVarDecl]
+        ) [VarDecl]
+      ) [VarDeclarationList]
+      MethodStmtList(
+        MethodStmtList(
+          MethodStmtList(
+            MethodStmtList(
+              MethodStmtList(
+                NoMethodStmtList(
+                ) [NoMethodStmtList]
+                MatchedStmt(
+                  DesignatorStmt(
+                    DesignatorAssign(
+                      DesignatorNoNameSpace(
+                        DesignatorName(
+                         z
+                        ) [DesignatorName]
+                        NoDesignatorRest(
+                        ) [NoDesignatorRest]
+                      ) [DesignatorNoNameSpace]
+                      Assignop(
+                      ) [Assignop]
+                      ExprNoMinus(
+                        Term(
+                          FactNum(
+                           3
+                          ) [FactNum]
+                          NoMoreFact(
+                          ) [NoMoreFact]
+                        ) [Term]
+                        NoMoreTerm(
+                        ) [NoMoreTerm]
+                      ) [ExprNoMinus]
+                    ) [DesignatorAssign]
+                  ) [DesignatorStmt]
+                ) [MatchedStmt]
+              ) [MethodStmtList]
+              MatchedStmt(
+                PrintStmt(
+                  ExprNoMinus(
+                    Term(
+                      FactNum(
+                       15
+                      ) [FactNum]
+                      NoMoreFact(
+                      ) [NoMoreFact]
+                    ) [Term]
+                    NoMoreTerm(
+                    ) [NoMoreTerm]
+                  ) [ExprNoMinus]
+                  NoPrintParam(
+                  ) [NoPrintParam]
+                ) [PrintStmt]
+              ) [MatchedStmt]
+            ) [MethodStmtList]
+            MatchedStmt(
+              PrintStmt(
+                ExprNoMinus(
+                  Term(
+                    FactEol(
+                    ) [FactEol]
+                    NoMoreFact(
+                    ) [NoMoreFact]
+                  ) [Term]
+                  NoMoreTerm(
+                  ) [NoMoreTerm]
+                ) [ExprNoMinus]
+                NoPrintParam(
+                ) [NoPrintParam]
+              ) [PrintStmt]
+            ) [MatchedStmt]
+          ) [MethodStmtList]
+          MatchedStmt(
+            PrintStmt(
+              ExprNoMinus(
+                Term(
+                  FactEol(
+                  ) [FactEol]
+                  NoMoreFact(
+                  ) [NoMoreFact]
+                ) [Term]
+                NoMoreTerm(
+                ) [NoMoreTerm]
+              ) [ExprNoMinus]
+              NoPrintParam(
+              ) [NoPrintParam]
+            ) [PrintStmt]
+          ) [MatchedStmt]
+        ) [MethodStmtList]
+        MatchedStmt(
+          PrintStmt(
+            ExprNoMinus(
+              Term(
+                FactNum(
+                 6
+                ) [FactNum]
+                NoMoreFact(
+                ) [NoMoreFact]
+              ) [Term]
+              NoMoreTerm(
+              ) [NoMoreTerm]
+            ) [ExprNoMinus]
+            NoPrintParam(
+            ) [NoPrintParam]
+          ) [PrintStmt]
+        ) [MatchedStmt]
+      ) [MethodStmtList]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  21:49:56,426 - Parsiranje uspesno završeno!

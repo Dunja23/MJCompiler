@@ -1,0 +1,51 @@
+INFO  01:05:52,008 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:05:52,084 - #2 program
+INFO  01:05:52,085 - #45 Test1
+INFO  01:05:52,085 - #45 char
+INFO  01:05:52,087 - #45 x
+INFO  01:05:52,089 - #8 ,
+INFO  01:05:52,092 - #45 m
+INFO  01:05:52,092 - #8 ,
+INFO  01:05:52,092 - #45 n
+INFO  01:05:52,092 - #5 ;
+INFO  01:05:52,092 - #45 int
+INFO  01:05:52,094 - #45 y
+INFO  01:05:52,095 - #5 ;
+INFO  01:05:52,095 - #16 const
+INFO  01:05:52,095 - #45 int
+INFO  01:05:52,095 - #45 z
+INFO  01:05:52,095 - #12 =
+INFO  01:05:52,096 - #44 1
+INFO  01:05:52,097 - #5 ;
+INFO  01:05:52,098 - #3 {
+INFO  01:05:52,099 - #45 int
+INFO  01:05:52,100 - #45 main
+INFO  01:05:52,102 - #6 (
+INFO  01:05:52,102 - #7 )
+INFO  01:05:52,103 - #45 char
+INFO  01:05:52,104 - #45 k
+INFO  01:05:52,105 - #5 ;
+INFO  01:05:52,105 - #3 {
+INFO  01:05:52,105 - #45 x
+INFO  01:05:52,105 - #12 =
+INFO  01:05:52,108 - #46 s
+INFO  01:05:52,109 - #5 ;
+INFO  01:05:52,112 - #9 print
+INFO  01:05:52,113 - #6 (
+INFO  01:05:52,113 - #45 x
+INFO  01:05:52,113 - #7 )
+INFO  01:05:52,115 - #5 ;
+INFO  01:05:52,115 - #4 }
+INFO  01:05:52,115 - #4 }
+INFO  01:05:52,135 - Test1
+INFO  01:05:52,135 - ====================================
+INFO  01:05:52,139 - Deklarisana promenljiva: x, Tip: char na liniji 3
+INFO  01:05:52,139 - Deklarisana promenljiva: m, Tip: char na liniji 3
+INFO  01:05:52,140 - Deklarisana promenljiva: n, Tip: char na liniji 3
+INFO  01:05:52,140 - Deklarisana promenljiva: y, Tip: int na liniji 3
+INFO  01:05:52,140 - Definisana konstanta: z, Tip: int na liniji 5
+INFO  01:05:52,140 - Obradjuje se funkcija main na liniji 8
+INFO  01:05:52,140 - Deklarisana promenljiva: k, Tip: char na liniji 8
+INFO  01:05:52,140 -  Print count calls = 1
+INFO  01:05:52,141 -  Deklarisanih promenljivih ima = 5
+INFO  01:05:52,141 - ====================================

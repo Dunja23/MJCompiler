@@ -1,0 +1,90 @@
+INFO  14:55:08,719 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:55:08,780 - #2 program
+INFO  14:55:08,781 - #45 MJProgram
+INFO  14:55:08,781 - #45 namesp
+INFO  14:55:08,784 - #38 :
+INFO  14:55:08,784 - #38 :
+INFO  14:55:08,784 - #45 int
+INFO  14:55:08,784 - #45 x
+INFO  14:55:08,785 - #5 ;
+INFO  14:55:08,787 - #45 int
+INFO  14:55:08,789 - #45 y
+INFO  14:55:08,790 - #5 ;
+INFO  14:55:08,790 - #3 {
+INFO  14:55:08,791 - #45 int
+INFO  14:55:08,792 - #45 k
+INFO  14:55:08,792 - #6 (
+INFO  14:55:08,792 - #7 )
+INFO  14:55:08,793 - #45 int
+INFO  14:55:08,794 - #45 c
+INFO  14:55:08,795 - #5 ;
+INFO  14:55:08,795 - #3 {
+INFO  14:55:08,795 - #47 if
+INFO  14:55:08,809 - #6 (
+INFO  14:55:08,809 - #45 i
+INFO  14:55:08,809 - #32 <
+INFO  14:55:08,814 - #44 0
+INFO  14:55:08,816 - #34 &&
+INFO  14:55:08,818 - #45 i
+INFO  14:55:08,818 - #28 ==
+INFO  14:55:08,818 - #44 2
+INFO  14:55:08,819 - #7 )
+INFO  14:55:08,822 - #3 {
+INFO  14:55:08,822 - #45 c
+INFO  14:55:08,823 - #12 =
+INFO  14:55:08,823 - #44 0
+INFO  14:55:08,825 - #5 ;
+INFO  14:55:08,825 - #10 return
+INFO  14:55:08,826 - #45 c
+INFO  14:55:08,826 - #11 +
+INFO  14:55:08,826 - #44 2
+INFO  14:55:08,829 - #5 ;
+INFO  14:55:08,829 - #4 }
+INFO  14:55:08,829 - #4 }
+INFO  14:55:08,830 - #45 int
+INFO  14:55:08,831 - #45 main
+INFO  14:55:08,832 - #6 (
+INFO  14:55:08,832 - #7 )
+INFO  14:55:08,832 - #3 {
+INFO  14:55:08,832 - #45 y
+INFO  14:55:08,832 - #12 =
+INFO  14:55:08,832 - #44 2
+INFO  14:55:08,832 - #5 ;
+INFO  14:55:08,832 - #45 x
+INFO  14:55:08,832 - #12 =
+INFO  14:55:08,832 - #45 y
+INFO  14:55:08,832 - #11 +
+INFO  14:55:08,832 - #44 2
+INFO  14:55:08,834 - #5 ;
+INFO  14:55:08,834 - #45 y
+INFO  14:55:08,834 - #12 =
+INFO  14:55:08,834 - #45 k
+INFO  14:55:08,834 - #6 (
+INFO  14:55:08,834 - #7 )
+INFO  14:55:08,835 - #11 +
+INFO  14:55:08,836 - #44 3
+INFO  14:55:08,836 - #5 ;
+INFO  14:55:08,836 - #9 print
+INFO  14:55:08,836 - #6 (
+INFO  14:55:08,836 - #45 y
+INFO  14:55:08,841 - #7 )
+INFO  14:55:08,842 - #5 ;
+INFO  14:55:08,842 - #9 print
+INFO  14:55:08,842 - #6 (
+INFO  14:55:08,842 - #45 x
+INFO  14:55:08,842 - #7 )
+INFO  14:55:08,843 - #5 ;
+INFO  14:55:08,843 - #10 return
+INFO  14:55:08,843 - #44 0
+INFO  14:55:08,843 - #5 ;
+INFO  14:55:08,844 - #4 }
+INFO  14:55:08,844 - #4 }
+INFO  14:55:08,869 - rs.ac.bg.etf.pp1.ast.Program@2e817b38
+INFO  14:55:08,870 - ====================================
+ERROR 14:55:08,873 - Nije pronadjen tip namesp u tabeli simbola! 
+INFO  14:55:08,874 - Deklarisana promenljiva namesp na liniji 2
+INFO  14:55:08,874 - Deklarisana promenljiva int na liniji 2
+INFO  14:55:08,874 - Deklarisana promenljiva int na liniji 4
+INFO  14:55:08,875 -  Print count calls = 2
+INFO  14:55:08,875 -  Deklarisanih promenljivih ima = 3
+INFO  14:55:08,875 - ====================================

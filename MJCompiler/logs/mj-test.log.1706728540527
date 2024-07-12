@@ -1,0 +1,61 @@
+INFO  20:12:32,217 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:12:32,276 - #2 program
+INFO  20:12:32,276 - #45 Test1
+INFO  20:12:32,276 - #45 char
+INFO  20:12:32,279 - #45 x
+INFO  20:12:32,280 - #8 ,
+INFO  20:12:32,283 - #45 m
+INFO  20:12:32,283 - #8 ,
+INFO  20:12:32,283 - #45 n
+INFO  20:12:32,283 - #5 ;
+INFO  20:12:32,283 - #45 int
+INFO  20:12:32,284 - #45 y
+INFO  20:12:32,285 - #5 ;
+INFO  20:12:32,285 - #45 bool
+INFO  20:12:32,285 - #45 tr
+INFO  20:12:32,285 - #5 ;
+INFO  20:12:32,285 - #16 const
+INFO  20:12:32,285 - #45 int
+INFO  20:12:32,286 - #45 z
+INFO  20:12:32,286 - #12 =
+INFO  20:12:32,287 - #44 1
+INFO  20:12:32,287 - #5 ;
+INFO  20:12:32,301 - #3 {
+INFO  20:12:32,303 - #13 void
+INFO  20:12:32,304 - #45 main
+INFO  20:12:32,306 - #6 (
+INFO  20:12:32,307 - #7 )
+INFO  20:12:32,308 - #45 char
+INFO  20:12:32,309 - #45 k
+INFO  20:12:32,310 - #8 ,
+INFO  20:12:32,310 - #45 bool
+INFO  20:12:32,310 - #45 flag
+ERROR 20:12:32,310 - 
+Sintaksna greska na liniji 9
+INFO  20:12:32,310 - #5 ;
+INFO  20:12:32,310 - #3 {
+INFO  20:12:32,310 - #45 x
+INFO  20:12:32,315 - #12 =
+ERROR 20:12:32,316 - Uspesan oporavak od greske na liniji 9 pri definisanju promenjive
+INFO  20:12:32,318 - #46 s
+INFO  20:12:32,320 - #5 ;
+INFO  20:12:32,323 - #9 print
+INFO  20:12:32,323 - #6 (
+INFO  20:12:32,323 - #45 x
+INFO  20:12:32,323 - #7 )
+INFO  20:12:32,326 - #5 ;
+INFO  20:12:32,326 - #4 }
+INFO  20:12:32,326 - #4 }
+INFO  20:12:32,342 - Test1
+INFO  20:12:32,343 - ====================================
+INFO  20:12:32,346 - Deklarisana promenljiva: x, Tip: char na liniji 3
+INFO  20:12:32,346 - Deklarisana promenljiva: m, Tip: char na liniji 3
+INFO  20:12:32,346 - Deklarisana promenljiva: n, Tip: char na liniji 3
+INFO  20:12:32,346 - Deklarisana promenljiva: y, Tip: int na liniji 3
+ERROR 20:12:32,346 - Nije pronadjen tip bool u tabeli simbola! 
+INFO  20:12:32,346 - Deklarisana promenljiva: tr, Tip: bool na liniji 4
+INFO  20:12:32,347 - Definisana konstanta: z, Tip: int na liniji 6
+INFO  20:12:32,347 - Obradjuje se funkcija main na liniji 9
+INFO  20:12:32,347 -  Print count calls = 1
+INFO  20:12:32,347 -  Deklarisanih promenljivih ima = 5
+INFO  20:12:32,347 - ====================================

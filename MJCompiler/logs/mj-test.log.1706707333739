@@ -1,0 +1,56 @@
+INFO  14:21:44,281 - Compiling source file: C:\Users\dd200138d\Downloads\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:21:44,339 - #2 program
+INFO  14:21:44,339 - #45 Test1
+INFO  14:21:44,339 - #45 char
+INFO  14:21:44,342 - #45 x
+INFO  14:21:44,344 - #8 ,
+INFO  14:21:44,346 - #45 m
+INFO  14:21:44,346 - #8 ,
+INFO  14:21:44,347 - #45 n
+INFO  14:21:44,347 - #5 ;
+INFO  14:21:44,347 - #45 int
+INFO  14:21:44,348 - #45 y
+INFO  14:21:44,349 - #5 ;
+INFO  14:21:44,349 - #45 bool
+INFO  14:21:44,349 - #45 tr
+INFO  14:21:44,349 - #12 =
+ERROR 14:21:44,349 - 
+Sintaksna greska na liniji 4
+INFO  14:21:44,349 - #43 true
+INFO  14:21:44,349 - #5 ;
+INFO  14:21:44,349 - #16 const
+INFO  14:21:44,354 - #45 int
+INFO  14:21:44,367 - #45 z
+ERROR 14:21:44,367 - Uspesan oporavak od greske na liniji 4 pri definisanju promenjive
+INFO  14:21:44,368 - #12 =
+INFO  14:21:44,369 - #44 1
+INFO  14:21:44,369 - #5 ;
+INFO  14:21:44,371 - #3 {
+INFO  14:21:44,372 - #45 int
+INFO  14:21:44,373 - #45 main
+INFO  14:21:44,373 - #6 (
+INFO  14:21:44,374 - #7 )
+INFO  14:21:44,375 - #45 char
+INFO  14:21:44,378 - #45 k
+INFO  14:21:44,378 - #5 ;
+INFO  14:21:44,378 - #3 {
+INFO  14:21:44,378 - #45 x
+INFO  14:21:44,378 - #12 =
+INFO  14:21:44,381 - #46 s
+INFO  14:21:44,383 - #5 ;
+INFO  14:21:44,388 - #9 print
+INFO  14:21:44,388 - #6 (
+INFO  14:21:44,388 - #45 x
+INFO  14:21:44,388 - #7 )
+INFO  14:21:44,393 - #5 ;
+INFO  14:21:44,394 - #4 }
+INFO  14:21:44,394 - #4 }
+INFO  14:21:44,408 - Test1
+INFO  14:21:44,408 - ====================================
+INFO  14:21:44,411 - Deklarisana promenljiva: x, Tip: char na liniji 3
+INFO  14:21:44,411 - Deklarisana promenljiva: m, Tip: char na liniji 3
+INFO  14:21:44,411 - Deklarisana promenljiva: n, Tip: char na liniji 3
+INFO  14:21:44,412 - Deklarisana promenljiva: y, Tip: int na liniji 3
+INFO  14:21:44,412 - Definisana konstanta: z, Tip: int na liniji 6
+INFO  14:21:44,412 - Obradjuje se funkcija main na liniji 9
+INFO  14:21:44,412 - Deklarisana promenljiva: k, Tip: char na liniji 9
